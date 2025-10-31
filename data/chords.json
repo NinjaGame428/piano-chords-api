@@ -1,0 +1,6972 @@
+[
+  {
+    "symbol": "C",
+    "fullName": "C major",
+    "description": "The C major Chord for Piano has the notes C E G and interval structure 1 3 5.",
+    "notes": [
+      "C",
+      "E",
+      "G"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-c-c-n-l-C-E-G.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/C"
+  },
+  {
+    "symbol": "Cm",
+    "fullName": "C minor",
+    "description": "The C minor Chord for Piano has the notes C Eb G and interval structure 1 b3 5.",
+    "notes": [
+      "C",
+      "Eb",
+      "G"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-cm-c-n-l-C-Eb-G.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Cm"
+  },
+  {
+    "symbol": "Cdim",
+    "fullName": "C diminished",
+    "description": "The C diminished Chord for Piano has the notes C Eb Gb and interval structure 1 b3 b5.",
+    "notes": [
+      "C",
+      "Eb",
+      "Gb"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-cdim-c-n-l-C-Eb-Gb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Cdim"
+  },
+  {
+    "symbol": "Caug",
+    "fullName": "C augmented",
+    "description": "The C augmented Chord for Piano has the notes C E Ab and interval structure 1 3 #5.",
+    "notes": [
+      "C",
+      "E",
+      "Ab"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "#5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-caug-c-n-l-C-E-Ab.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Caug"
+  },
+  {
+    "symbol": "Cmaj7",
+    "fullName": "C major seventh",
+    "description": "The C major seventh Chord for Piano has the notes C E G B and interval structure 1 3 5 7.",
+    "notes": [
+      "C",
+      "E",
+      "G",
+      "B"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-cmaj7-c-n-l-C-E-G-B.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Cmaj7"
+  },
+  {
+    "symbol": "C7",
+    "fullName": "C dominant seventh",
+    "description": "The C dominant seventh Chord for Piano has the notes C E G Bb and interval structure 1 3 5 b7.",
+    "notes": [
+      "C",
+      "E",
+      "G",
+      "Bb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-c7-c-n-l-C-E-G-Bb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/C7"
+  },
+  {
+    "symbol": "Cm7",
+    "fullName": "C minor seventh",
+    "description": "The C minor seventh Chord for Piano has the notes C Eb G Bb and interval structure 1 b3 5 b7.",
+    "notes": [
+      "C",
+      "Eb",
+      "G",
+      "Bb"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-cm7-c-n-l-C-Eb-G-Bb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Cm7"
+  },
+  {
+    "symbol": "Cdim7",
+    "fullName": "C diminished seventh",
+    "description": "The C diminished seventh Chord for Piano has the notes C Eb Gb A and interval structure 1 b3 b5 6.",
+    "notes": [
+      "C",
+      "Eb",
+      "Gb",
+      "A"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-cdim7-c-n-l-C-Eb-Gb-A.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Cdim7"
+  },
+  {
+    "symbol": "Cm(maj7)",
+    "fullName": "C minor major seventh",
+    "description": "The C minor major seventh Chord for Piano has the notes C Eb G B and interval structure 1 b3 5 7.",
+    "notes": [
+      "C",
+      "Eb",
+      "G",
+      "B"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-cmmaj7-c-n-l-C-Eb-G-B.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Cm(maj7)"
+  },
+  {
+    "symbol": "Cm7b5",
+    "fullName": "C minor seventh flat five",
+    "description": "The C minor seventh flat five Chord for Piano has the notes C Eb Gb Bb and interval structure 1 b3 b5 b7.",
+    "notes": [
+      "C",
+      "Eb",
+      "Gb",
+      "Bb"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-cm7b5-c-n-l-C-Eb-Gb-Bb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Cm7b5"
+  },
+  {
+    "symbol": "Csus2",
+    "fullName": "C suspended second",
+    "description": "The C suspended second Chord for Piano has the notes C D G and interval structure 1 2 5.",
+    "notes": [
+      "C",
+      "D",
+      "G"
+    ],
+    "intervals": [
+      "1",
+      "2",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-csus2-c-n-l-C-D-G.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Csus2"
+  },
+  {
+    "symbol": "Csus4",
+    "fullName": "C suspended fourth",
+    "description": "The C suspended fourth Chord for Piano has the notes C F G and interval structure 1 4 5.",
+    "notes": [
+      "C",
+      "F",
+      "G"
+    ],
+    "intervals": [
+      "1",
+      "4",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-csus4-c-n-l-C-F-G.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Csus4"
+  },
+  {
+    "symbol": "C6",
+    "fullName": "C sixth",
+    "description": "The C sixth Chord for Piano has the notes C E G A and interval structure 1 3 5 6.",
+    "notes": [
+      "C",
+      "E",
+      "G",
+      "A"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-c6-c-n-l-C-E-G-A.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/C6"
+  },
+  {
+    "symbol": "C6/9",
+    "fullName": "C sixth ninth",
+    "description": "The C sixth ninth Chord for Piano has the notes C E G A D and interval structure 1 3 5 6 9.",
+    "notes": [
+      "C",
+      "E",
+      "G",
+      "A",
+      "D"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-c6_9-c-n-l-C-E-G-A-D.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/C6%2F9"
+  },
+  {
+    "symbol": "C9",
+    "fullName": "C dominant ninth",
+    "description": "The C dominant ninth Chord for Piano has the notes C E G Bb D and interval structure 1 3 5 b7 9.",
+    "notes": [
+      "C",
+      "E",
+      "G",
+      "Bb",
+      "D"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-c9-c-n-l-C-E-G-Bb-D.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/C9"
+  },
+  {
+    "symbol": "C11",
+    "fullName": "C dominant eleventh",
+    "description": "The C dominant eleventh Chord for Piano has the notes C E G Bb D F and interval structure 1 3 5 b7 9 11.",
+    "notes": [
+      "C",
+      "E",
+      "G",
+      "Bb",
+      "D",
+      "F"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "11"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-c11-c-n-l-C-E-G-Bb-D-F.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/C11"
+  },
+  {
+    "symbol": "C13",
+    "fullName": "C dominant thirteenth",
+    "description": "The C dominant thirteenth Chord for Piano has the notes C E G Bb D A and interval structure 1 3 5 b7 9 13.",
+    "notes": [
+      "C",
+      "E",
+      "G",
+      "Bb",
+      "D",
+      "A"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "13"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-c13-c-n-l-C-E-G-Bb-D-A.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/C13"
+  },
+  {
+    "symbol": "C5",
+    "fullName": "C fifth",
+    "description": "The C fifth Chord for Piano has the notes C G and interval structure 1 5.",
+    "notes": [
+      "C",
+      "G"
+    ],
+    "intervals": [
+      "1",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-c5-c-n-l-C-G.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/C5"
+  },
+  {
+    "symbol": "C#",
+    "fullName": "C# major",
+    "description": "The C# major Chord for Piano has the notes Db F Ab and interval structure 1 3 5.",
+    "notes": [
+      "Db",
+      "F",
+      "Ab"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-cs-c-n-l-Db-F-Ab.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/C%23"
+  },
+  {
+    "symbol": "C#m",
+    "fullName": "C# minor",
+    "description": "The C# minor Chord for Piano has the notes Db E Ab and interval structure 1 b3 5.",
+    "notes": [
+      "Db",
+      "E",
+      "Ab"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-csm-c-n-l-Db-E-Ab.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/C%23m"
+  },
+  {
+    "symbol": "C#dim",
+    "fullName": "C# diminished",
+    "description": "The C# diminished Chord for Piano has the notes Db E G and interval structure 1 b3 b5.",
+    "notes": [
+      "Db",
+      "E",
+      "G"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-csdim-c-n-l-Db-E-G.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/C%23dim"
+  },
+  {
+    "symbol": "C#aug",
+    "fullName": "C# augmented",
+    "description": "The C# augmented Chord for Piano has the notes Db F A and interval structure 1 3 #5.",
+    "notes": [
+      "Db",
+      "F",
+      "A"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "#5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-csaug-c-n-l-Db-F-A.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/C%23aug"
+  },
+  {
+    "symbol": "C#maj7",
+    "fullName": "C# major seventh",
+    "description": "The C# major seventh Chord for Piano has the notes Db F Ab C and interval structure 1 3 5 7.",
+    "notes": [
+      "Db",
+      "F",
+      "Ab",
+      "C"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-csmaj7-c-n-l-Db-F-Ab-C.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/C%23maj7"
+  },
+  {
+    "symbol": "C#7",
+    "fullName": "C# dominant seventh",
+    "description": "The C# dominant seventh Chord for Piano has the notes Db F Ab B and interval structure 1 3 5 b7.",
+    "notes": [
+      "Db",
+      "F",
+      "Ab",
+      "B"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-cs7-c-n-l-Db-F-Ab-B.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/C%237"
+  },
+  {
+    "symbol": "C#m7",
+    "fullName": "C# minor seventh",
+    "description": "The C# minor seventh Chord for Piano has the notes Db E Ab B and interval structure 1 b3 5 b7.",
+    "notes": [
+      "Db",
+      "E",
+      "Ab",
+      "B"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-csm7-c-n-l-Db-E-Ab-B.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/C%23m7"
+  },
+  {
+    "symbol": "C#dim7",
+    "fullName": "C# diminished seventh",
+    "description": "The C# diminished seventh Chord for Piano has the notes Db E G Bb and interval structure 1 b3 b5 6.",
+    "notes": [
+      "Db",
+      "E",
+      "G",
+      "Bb"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-csdim7-c-n-l-Db-E-G-Bb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/C%23dim7"
+  },
+  {
+    "symbol": "C#m(maj7)",
+    "fullName": "C# minor major seventh",
+    "description": "The C# minor major seventh Chord for Piano has the notes Db E Ab C and interval structure 1 b3 5 7.",
+    "notes": [
+      "Db",
+      "E",
+      "Ab",
+      "C"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-csmmaj7-c-n-l-Db-E-Ab-C.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/C%23m(maj7)"
+  },
+  {
+    "symbol": "C#m7b5",
+    "fullName": "C# minor seventh flat five",
+    "description": "The C# minor seventh flat five Chord for Piano has the notes Db E G B and interval structure 1 b3 b5 b7.",
+    "notes": [
+      "Db",
+      "E",
+      "G",
+      "B"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-csm7b5-c-n-l-Db-E-G-B.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/C%23m7b5"
+  },
+  {
+    "symbol": "C#sus2",
+    "fullName": "C# suspended second",
+    "description": "The C# suspended second Chord for Piano has the notes Db Eb Ab and interval structure 1 2 5.",
+    "notes": [
+      "Db",
+      "Eb",
+      "Ab"
+    ],
+    "intervals": [
+      "1",
+      "2",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-cssus2-c-n-l-Db-Eb-Ab.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/C%23sus2"
+  },
+  {
+    "symbol": "C#sus4",
+    "fullName": "C# suspended fourth",
+    "description": "The C# suspended fourth Chord for Piano has the notes Db Gb Ab and interval structure 1 4 5.",
+    "notes": [
+      "Db",
+      "Gb",
+      "Ab"
+    ],
+    "intervals": [
+      "1",
+      "4",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-cssus4-c-n-l-Db-Gb-Ab.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/C%23sus4"
+  },
+  {
+    "symbol": "C#6",
+    "fullName": "C# sixth",
+    "description": "The C# sixth Chord for Piano has the notes Db F Ab Bb and interval structure 1 3 5 6.",
+    "notes": [
+      "Db",
+      "F",
+      "Ab",
+      "Bb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-cs6-c-n-l-Db-F-Ab-Bb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/C%236"
+  },
+  {
+    "symbol": "C#6/9",
+    "fullName": "C# sixth ninth",
+    "description": "The C# sixth ninth Chord for Piano has the notes Db F Ab Bb Eb and interval structure 1 3 5 6 9.",
+    "notes": [
+      "Db",
+      "F",
+      "Ab",
+      "Bb",
+      "Eb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-cs6_9-c-n-l-Db-F-Ab-Bb-Eb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/C%236%2F9"
+  },
+  {
+    "symbol": "C#9",
+    "fullName": "C# dominant ninth",
+    "description": "The C# dominant ninth Chord for Piano has the notes Db F Ab B Eb and interval structure 1 3 5 b7 9.",
+    "notes": [
+      "Db",
+      "F",
+      "Ab",
+      "B",
+      "Eb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-cs9-c-n-l-Db-F-Ab-B-Eb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/C%239"
+  },
+  {
+    "symbol": "C#11",
+    "fullName": "C# dominant eleventh",
+    "description": "The C# dominant eleventh Chord for Piano has the notes Db F Ab B Eb Gb and interval structure 1 3 5 b7 9 11.",
+    "notes": [
+      "Db",
+      "F",
+      "Ab",
+      "B",
+      "Eb",
+      "Gb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "11"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-cs11-c-n-l-Db-F-Ab-B-Eb-Gb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/C%2311"
+  },
+  {
+    "symbol": "C#13",
+    "fullName": "C# dominant thirteenth",
+    "description": "The C# dominant thirteenth Chord for Piano has the notes Db F Ab B Eb Bb and interval structure 1 3 5 b7 9 13.",
+    "notes": [
+      "Db",
+      "F",
+      "Ab",
+      "B",
+      "Eb",
+      "Bb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "13"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-cs13-c-n-l-Db-F-Ab-B-Eb-Bb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/C%2313"
+  },
+  {
+    "symbol": "C#5",
+    "fullName": "C# fifth",
+    "description": "The C# fifth Chord for Piano has the notes Db Ab and interval structure 1 5.",
+    "notes": [
+      "Db",
+      "Ab"
+    ],
+    "intervals": [
+      "1",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-cs5-c-n-l-Db-Ab.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/C%235"
+  },
+  {
+    "symbol": "Db",
+    "fullName": "Db major",
+    "description": "The Db major Chord for Piano has the notes Db F Ab and interval structure 1 3 5.",
+    "notes": [
+      "Db",
+      "F",
+      "Ab"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-db-c-n-l-Db-F-Ab.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Db"
+  },
+  {
+    "symbol": "Dbm",
+    "fullName": "Db minor",
+    "description": "The Db minor Chord for Piano has the notes Db E Ab and interval structure 1 b3 5.",
+    "notes": [
+      "Db",
+      "E",
+      "Ab"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-dbm-c-n-l-Db-E-Ab.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Dbm"
+  },
+  {
+    "symbol": "Dbdim",
+    "fullName": "Db diminished",
+    "description": "The Db diminished Chord for Piano has the notes Db E G and interval structure 1 b3 b5.",
+    "notes": [
+      "Db",
+      "E",
+      "G"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-dbdim-c-n-l-Db-E-G.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Dbdim"
+  },
+  {
+    "symbol": "Dbaug",
+    "fullName": "Db augmented",
+    "description": "The Db augmented Chord for Piano has the notes Db F A and interval structure 1 3 #5.",
+    "notes": [
+      "Db",
+      "F",
+      "A"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "#5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-dbaug-c-n-l-Db-F-A.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Dbaug"
+  },
+  {
+    "symbol": "Dbmaj7",
+    "fullName": "Db major seventh",
+    "description": "The Db major seventh Chord for Piano has the notes Db F Ab C and interval structure 1 3 5 7.",
+    "notes": [
+      "Db",
+      "F",
+      "Ab",
+      "C"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-dbmaj7-c-n-l-Db-F-Ab-C.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Dbmaj7"
+  },
+  {
+    "symbol": "Db7",
+    "fullName": "Db dominant seventh",
+    "description": "The Db dominant seventh Chord for Piano has the notes Db F Ab B and interval structure 1 3 5 b7.",
+    "notes": [
+      "Db",
+      "F",
+      "Ab",
+      "B"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-db7-c-n-l-Db-F-Ab-B.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Db7"
+  },
+  {
+    "symbol": "Dbm7",
+    "fullName": "Db minor seventh",
+    "description": "The Db minor seventh Chord for Piano has the notes Db E Ab B and interval structure 1 b3 5 b7.",
+    "notes": [
+      "Db",
+      "E",
+      "Ab",
+      "B"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-dbm7-c-n-l-Db-E-Ab-B.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Dbm7"
+  },
+  {
+    "symbol": "Dbdim7",
+    "fullName": "Db diminished seventh",
+    "description": "The Db diminished seventh Chord for Piano has the notes Db E G Bb and interval structure 1 b3 b5 6.",
+    "notes": [
+      "Db",
+      "E",
+      "G",
+      "Bb"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-dbdim7-c-n-l-Db-E-G-Bb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Dbdim7"
+  },
+  {
+    "symbol": "Dbm(maj7)",
+    "fullName": "Db minor major seventh",
+    "description": "The Db minor major seventh Chord for Piano has the notes Db E Ab C and interval structure 1 b3 5 7.",
+    "notes": [
+      "Db",
+      "E",
+      "Ab",
+      "C"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-dbmmaj7-c-n-l-Db-E-Ab-C.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Dbm(maj7)"
+  },
+  {
+    "symbol": "Dbm7b5",
+    "fullName": "Db minor seventh flat five",
+    "description": "The Db minor seventh flat five Chord for Piano has the notes Db E G B and interval structure 1 b3 b5 b7.",
+    "notes": [
+      "Db",
+      "E",
+      "G",
+      "B"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-dbm7b5-c-n-l-Db-E-G-B.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Dbm7b5"
+  },
+  {
+    "symbol": "Dbsus2",
+    "fullName": "Db suspended second",
+    "description": "The Db suspended second Chord for Piano has the notes Db Eb Ab and interval structure 1 2 5.",
+    "notes": [
+      "Db",
+      "Eb",
+      "Ab"
+    ],
+    "intervals": [
+      "1",
+      "2",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-dbsus2-c-n-l-Db-Eb-Ab.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Dbsus2"
+  },
+  {
+    "symbol": "Dbsus4",
+    "fullName": "Db suspended fourth",
+    "description": "The Db suspended fourth Chord for Piano has the notes Db Gb Ab and interval structure 1 4 5.",
+    "notes": [
+      "Db",
+      "Gb",
+      "Ab"
+    ],
+    "intervals": [
+      "1",
+      "4",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-dbsus4-c-n-l-Db-Gb-Ab.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Dbsus4"
+  },
+  {
+    "symbol": "Db6",
+    "fullName": "Db sixth",
+    "description": "The Db sixth Chord for Piano has the notes Db F Ab Bb and interval structure 1 3 5 6.",
+    "notes": [
+      "Db",
+      "F",
+      "Ab",
+      "Bb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-db6-c-n-l-Db-F-Ab-Bb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Db6"
+  },
+  {
+    "symbol": "Db6/9",
+    "fullName": "Db sixth ninth",
+    "description": "The Db sixth ninth Chord for Piano has the notes Db F Ab Bb Eb and interval structure 1 3 5 6 9.",
+    "notes": [
+      "Db",
+      "F",
+      "Ab",
+      "Bb",
+      "Eb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-db6_9-c-n-l-Db-F-Ab-Bb-Eb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Db6%2F9"
+  },
+  {
+    "symbol": "Db9",
+    "fullName": "Db dominant ninth",
+    "description": "The Db dominant ninth Chord for Piano has the notes Db F Ab B Eb and interval structure 1 3 5 b7 9.",
+    "notes": [
+      "Db",
+      "F",
+      "Ab",
+      "B",
+      "Eb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-db9-c-n-l-Db-F-Ab-B-Eb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Db9"
+  },
+  {
+    "symbol": "Db11",
+    "fullName": "Db dominant eleventh",
+    "description": "The Db dominant eleventh Chord for Piano has the notes Db F Ab B Eb Gb and interval structure 1 3 5 b7 9 11.",
+    "notes": [
+      "Db",
+      "F",
+      "Ab",
+      "B",
+      "Eb",
+      "Gb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "11"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-db11-c-n-l-Db-F-Ab-B-Eb-Gb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Db11"
+  },
+  {
+    "symbol": "Db13",
+    "fullName": "Db dominant thirteenth",
+    "description": "The Db dominant thirteenth Chord for Piano has the notes Db F Ab B Eb Bb and interval structure 1 3 5 b7 9 13.",
+    "notes": [
+      "Db",
+      "F",
+      "Ab",
+      "B",
+      "Eb",
+      "Bb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "13"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-db13-c-n-l-Db-F-Ab-B-Eb-Bb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Db13"
+  },
+  {
+    "symbol": "Db5",
+    "fullName": "Db fifth",
+    "description": "The Db fifth Chord for Piano has the notes Db Ab and interval structure 1 5.",
+    "notes": [
+      "Db",
+      "Ab"
+    ],
+    "intervals": [
+      "1",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-db5-c-n-l-Db-Ab.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Db5"
+  },
+  {
+    "symbol": "D",
+    "fullName": "D major",
+    "description": "The D major Chord for Piano has the notes D Gb A and interval structure 1 3 5.",
+    "notes": [
+      "D",
+      "Gb",
+      "A"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-d-c-n-l-D-Gb-A.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/D"
+  },
+  {
+    "symbol": "Dm",
+    "fullName": "D minor",
+    "description": "The D minor Chord for Piano has the notes D F A and interval structure 1 b3 5.",
+    "notes": [
+      "D",
+      "F",
+      "A"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-dm-c-n-l-D-F-A.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Dm"
+  },
+  {
+    "symbol": "Ddim",
+    "fullName": "D diminished",
+    "description": "The D diminished Chord for Piano has the notes D F Ab and interval structure 1 b3 b5.",
+    "notes": [
+      "D",
+      "F",
+      "Ab"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-ddim-c-n-l-D-F-Ab.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Ddim"
+  },
+  {
+    "symbol": "Daug",
+    "fullName": "D augmented",
+    "description": "The D augmented Chord for Piano has the notes D Gb Bb and interval structure 1 3 #5.",
+    "notes": [
+      "D",
+      "Gb",
+      "Bb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "#5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-daug-c-n-l-D-Gb-Bb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Daug"
+  },
+  {
+    "symbol": "Dmaj7",
+    "fullName": "D major seventh",
+    "description": "The D major seventh Chord for Piano has the notes D Gb A Db and interval structure 1 3 5 7.",
+    "notes": [
+      "D",
+      "Gb",
+      "A",
+      "Db"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-dmaj7-c-n-l-D-Gb-A-Db.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Dmaj7"
+  },
+  {
+    "symbol": "D7",
+    "fullName": "D dominant seventh",
+    "description": "The D dominant seventh Chord for Piano has the notes D Gb A C and interval structure 1 3 5 b7.",
+    "notes": [
+      "D",
+      "Gb",
+      "A",
+      "C"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-d7-c-n-l-D-Gb-A-C.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/D7"
+  },
+  {
+    "symbol": "Dm7",
+    "fullName": "D minor seventh",
+    "description": "The D minor seventh Chord for Piano has the notes D F A C and interval structure 1 b3 5 b7.",
+    "notes": [
+      "D",
+      "F",
+      "A",
+      "C"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-dm7-c-n-l-D-F-A-C.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Dm7"
+  },
+  {
+    "symbol": "Ddim7",
+    "fullName": "D diminished seventh",
+    "description": "The D diminished seventh Chord for Piano has the notes D F Ab B and interval structure 1 b3 b5 6.",
+    "notes": [
+      "D",
+      "F",
+      "Ab",
+      "B"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-ddim7-c-n-l-D-F-Ab-B.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Ddim7"
+  },
+  {
+    "symbol": "Dm(maj7)",
+    "fullName": "D minor major seventh",
+    "description": "The D minor major seventh Chord for Piano has the notes D F A Db and interval structure 1 b3 5 7.",
+    "notes": [
+      "D",
+      "F",
+      "A",
+      "Db"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-dmmaj7-c-n-l-D-F-A-Db.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Dm(maj7)"
+  },
+  {
+    "symbol": "Dm7b5",
+    "fullName": "D minor seventh flat five",
+    "description": "The D minor seventh flat five Chord for Piano has the notes D F Ab C and interval structure 1 b3 b5 b7.",
+    "notes": [
+      "D",
+      "F",
+      "Ab",
+      "C"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-dm7b5-c-n-l-D-F-Ab-C.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Dm7b5"
+  },
+  {
+    "symbol": "Dsus2",
+    "fullName": "D suspended second",
+    "description": "The D suspended second Chord for Piano has the notes D E A and interval structure 1 2 5.",
+    "notes": [
+      "D",
+      "E",
+      "A"
+    ],
+    "intervals": [
+      "1",
+      "2",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-dsus2-c-n-l-D-E-A.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Dsus2"
+  },
+  {
+    "symbol": "Dsus4",
+    "fullName": "D suspended fourth",
+    "description": "The D suspended fourth Chord for Piano has the notes D G A and interval structure 1 4 5.",
+    "notes": [
+      "D",
+      "G",
+      "A"
+    ],
+    "intervals": [
+      "1",
+      "4",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-dsus4-c-n-l-D-G-A.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Dsus4"
+  },
+  {
+    "symbol": "D6",
+    "fullName": "D sixth",
+    "description": "The D sixth Chord for Piano has the notes D Gb A B and interval structure 1 3 5 6.",
+    "notes": [
+      "D",
+      "Gb",
+      "A",
+      "B"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-d6-c-n-l-D-Gb-A-B.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/D6"
+  },
+  {
+    "symbol": "D6/9",
+    "fullName": "D sixth ninth",
+    "description": "The D sixth ninth Chord for Piano has the notes D Gb A B E and interval structure 1 3 5 6 9.",
+    "notes": [
+      "D",
+      "Gb",
+      "A",
+      "B",
+      "E"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-d6_9-c-n-l-D-Gb-A-B-E.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/D6%2F9"
+  },
+  {
+    "symbol": "D9",
+    "fullName": "D dominant ninth",
+    "description": "The D dominant ninth Chord for Piano has the notes D Gb A C E and interval structure 1 3 5 b7 9.",
+    "notes": [
+      "D",
+      "Gb",
+      "A",
+      "C",
+      "E"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-d9-c-n-l-D-Gb-A-C-E.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/D9"
+  },
+  {
+    "symbol": "D11",
+    "fullName": "D dominant eleventh",
+    "description": "The D dominant eleventh Chord for Piano has the notes D Gb A C E G and interval structure 1 3 5 b7 9 11.",
+    "notes": [
+      "D",
+      "Gb",
+      "A",
+      "C",
+      "E",
+      "G"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "11"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-d11-c-n-l-D-Gb-A-C-E-G.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/D11"
+  },
+  {
+    "symbol": "D13",
+    "fullName": "D dominant thirteenth",
+    "description": "The D dominant thirteenth Chord for Piano has the notes D Gb A C E B and interval structure 1 3 5 b7 9 13.",
+    "notes": [
+      "D",
+      "Gb",
+      "A",
+      "C",
+      "E",
+      "B"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "13"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-d13-c-n-l-D-Gb-A-C-E-B.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/D13"
+  },
+  {
+    "symbol": "D5",
+    "fullName": "D fifth",
+    "description": "The D fifth Chord for Piano has the notes D A and interval structure 1 5.",
+    "notes": [
+      "D",
+      "A"
+    ],
+    "intervals": [
+      "1",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-d5-c-n-l-D-A.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/D5"
+  },
+  {
+    "symbol": "D#",
+    "fullName": "D# major",
+    "description": "The D# major Chord for Piano has the notes Eb G Bb and interval structure 1 3 5.",
+    "notes": [
+      "Eb",
+      "G",
+      "Bb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-ds-c-n-l-Eb-G-Bb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/D%23"
+  },
+  {
+    "symbol": "D#m",
+    "fullName": "D# minor",
+    "description": "The D# minor Chord for Piano has the notes Eb Gb Bb and interval structure 1 b3 5.",
+    "notes": [
+      "Eb",
+      "Gb",
+      "Bb"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-dsm-c-n-l-Eb-Gb-Bb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/D%23m"
+  },
+  {
+    "symbol": "D#dim",
+    "fullName": "D# diminished",
+    "description": "The D# diminished Chord for Piano has the notes Eb Gb A and interval structure 1 b3 b5.",
+    "notes": [
+      "Eb",
+      "Gb",
+      "A"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-dsdim-c-n-l-Eb-Gb-A.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/D%23dim"
+  },
+  {
+    "symbol": "D#aug",
+    "fullName": "D# augmented",
+    "description": "The D# augmented Chord for Piano has the notes Eb G B and interval structure 1 3 #5.",
+    "notes": [
+      "Eb",
+      "G",
+      "B"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "#5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-dsaug-c-n-l-Eb-G-B.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/D%23aug"
+  },
+  {
+    "symbol": "D#maj7",
+    "fullName": "D# major seventh",
+    "description": "The D# major seventh Chord for Piano has the notes Eb G Bb D and interval structure 1 3 5 7.",
+    "notes": [
+      "Eb",
+      "G",
+      "Bb",
+      "D"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-dsmaj7-c-n-l-Eb-G-Bb-D.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/D%23maj7"
+  },
+  {
+    "symbol": "D#7",
+    "fullName": "D# dominant seventh",
+    "description": "The D# dominant seventh Chord for Piano has the notes Eb G Bb Db and interval structure 1 3 5 b7.",
+    "notes": [
+      "Eb",
+      "G",
+      "Bb",
+      "Db"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-ds7-c-n-l-Eb-G-Bb-Db.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/D%237"
+  },
+  {
+    "symbol": "D#m7",
+    "fullName": "D# minor seventh",
+    "description": "The D# minor seventh Chord for Piano has the notes Eb Gb Bb Db and interval structure 1 b3 5 b7.",
+    "notes": [
+      "Eb",
+      "Gb",
+      "Bb",
+      "Db"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-dsm7-c-n-l-Eb-Gb-Bb-Db.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/D%23m7"
+  },
+  {
+    "symbol": "D#dim7",
+    "fullName": "D# diminished seventh",
+    "description": "The D# diminished seventh Chord for Piano has the notes Eb Gb A C and interval structure 1 b3 b5 6.",
+    "notes": [
+      "Eb",
+      "Gb",
+      "A",
+      "C"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-dsdim7-c-n-l-Eb-Gb-A-C.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/D%23dim7"
+  },
+  {
+    "symbol": "D#m(maj7)",
+    "fullName": "D# minor major seventh",
+    "description": "The D# minor major seventh Chord for Piano has the notes Eb Gb Bb D and interval structure 1 b3 5 7.",
+    "notes": [
+      "Eb",
+      "Gb",
+      "Bb",
+      "D"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-dsmmaj7-c-n-l-Eb-Gb-Bb-D.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/D%23m(maj7)"
+  },
+  {
+    "symbol": "D#m7b5",
+    "fullName": "D# minor seventh flat five",
+    "description": "The D# minor seventh flat five Chord for Piano has the notes Eb Gb A Db and interval structure 1 b3 b5 b7.",
+    "notes": [
+      "Eb",
+      "Gb",
+      "A",
+      "Db"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-dsm7b5-c-n-l-Eb-Gb-A-Db.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/D%23m7b5"
+  },
+  {
+    "symbol": "D#sus2",
+    "fullName": "D# suspended second",
+    "description": "The D# suspended second Chord for Piano has the notes Eb F Bb and interval structure 1 2 5.",
+    "notes": [
+      "Eb",
+      "F",
+      "Bb"
+    ],
+    "intervals": [
+      "1",
+      "2",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-dssus2-c-n-l-Eb-F-Bb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/D%23sus2"
+  },
+  {
+    "symbol": "D#sus4",
+    "fullName": "D# suspended fourth",
+    "description": "The D# suspended fourth Chord for Piano has the notes Eb Ab Bb and interval structure 1 4 5.",
+    "notes": [
+      "Eb",
+      "Ab",
+      "Bb"
+    ],
+    "intervals": [
+      "1",
+      "4",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-dssus4-c-n-l-Eb-Ab-Bb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/D%23sus4"
+  },
+  {
+    "symbol": "D#6",
+    "fullName": "D# sixth",
+    "description": "The D# sixth Chord for Piano has the notes Eb G Bb C and interval structure 1 3 5 6.",
+    "notes": [
+      "Eb",
+      "G",
+      "Bb",
+      "C"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-ds6-c-n-l-Eb-G-Bb-C.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/D%236"
+  },
+  {
+    "symbol": "D#6/9",
+    "fullName": "D# sixth ninth",
+    "description": "The D# sixth ninth Chord for Piano has the notes Eb G Bb C F and interval structure 1 3 5 6 9.",
+    "notes": [
+      "Eb",
+      "G",
+      "Bb",
+      "C",
+      "F"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-ds6_9-c-n-l-Eb-G-Bb-C-F.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/D%236%2F9"
+  },
+  {
+    "symbol": "D#9",
+    "fullName": "D# dominant ninth",
+    "description": "The D# dominant ninth Chord for Piano has the notes Eb G Bb Db F and interval structure 1 3 5 b7 9.",
+    "notes": [
+      "Eb",
+      "G",
+      "Bb",
+      "Db",
+      "F"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-ds9-c-n-l-Eb-G-Bb-Db-F.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/D%239"
+  },
+  {
+    "symbol": "D#11",
+    "fullName": "D# dominant eleventh",
+    "description": "The D# dominant eleventh Chord for Piano has the notes Eb G Bb Db F Ab and interval structure 1 3 5 b7 9 11.",
+    "notes": [
+      "Eb",
+      "G",
+      "Bb",
+      "Db",
+      "F",
+      "Ab"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "11"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-ds11-c-n-l-Eb-G-Bb-Db-F-Ab.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/D%2311"
+  },
+  {
+    "symbol": "D#13",
+    "fullName": "D# dominant thirteenth",
+    "description": "The D# dominant thirteenth Chord for Piano has the notes Eb G Bb Db F C and interval structure 1 3 5 b7 9 13.",
+    "notes": [
+      "Eb",
+      "G",
+      "Bb",
+      "Db",
+      "F",
+      "C"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "13"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-ds13-c-n-l-Eb-G-Bb-Db-F-C.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/D%2313"
+  },
+  {
+    "symbol": "D#5",
+    "fullName": "D# fifth",
+    "description": "The D# fifth Chord for Piano has the notes Eb Bb and interval structure 1 5.",
+    "notes": [
+      "Eb",
+      "Bb"
+    ],
+    "intervals": [
+      "1",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-ds5-c-n-l-Eb-Bb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/D%235"
+  },
+  {
+    "symbol": "Eb",
+    "fullName": "Eb major",
+    "description": "The Eb major Chord for Piano has the notes Eb G Bb and interval structure 1 3 5.",
+    "notes": [
+      "Eb",
+      "G",
+      "Bb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-eb-c-n-l-Eb-G-Bb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Eb"
+  },
+  {
+    "symbol": "Ebm",
+    "fullName": "Eb minor",
+    "description": "The Eb minor Chord for Piano has the notes Eb Gb Bb and interval structure 1 b3 5.",
+    "notes": [
+      "Eb",
+      "Gb",
+      "Bb"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-ebm-c-n-l-Eb-Gb-Bb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Ebm"
+  },
+  {
+    "symbol": "Ebdim",
+    "fullName": "Eb diminished",
+    "description": "The Eb diminished Chord for Piano has the notes Eb Gb A and interval structure 1 b3 b5.",
+    "notes": [
+      "Eb",
+      "Gb",
+      "A"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-ebdim-c-n-l-Eb-Gb-A.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Ebdim"
+  },
+  {
+    "symbol": "Ebaug",
+    "fullName": "Eb augmented",
+    "description": "The Eb augmented Chord for Piano has the notes Eb G B and interval structure 1 3 #5.",
+    "notes": [
+      "Eb",
+      "G",
+      "B"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "#5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-ebaug-c-n-l-Eb-G-B.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Ebaug"
+  },
+  {
+    "symbol": "Ebmaj7",
+    "fullName": "Eb major seventh",
+    "description": "The Eb major seventh Chord for Piano has the notes Eb G Bb D and interval structure 1 3 5 7.",
+    "notes": [
+      "Eb",
+      "G",
+      "Bb",
+      "D"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-ebmaj7-c-n-l-Eb-G-Bb-D.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Ebmaj7"
+  },
+  {
+    "symbol": "Eb7",
+    "fullName": "Eb dominant seventh",
+    "description": "The Eb dominant seventh Chord for Piano has the notes Eb G Bb Db and interval structure 1 3 5 b7.",
+    "notes": [
+      "Eb",
+      "G",
+      "Bb",
+      "Db"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-eb7-c-n-l-Eb-G-Bb-Db.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Eb7"
+  },
+  {
+    "symbol": "Ebm7",
+    "fullName": "Eb minor seventh",
+    "description": "The Eb minor seventh Chord for Piano has the notes Eb Gb Bb Db and interval structure 1 b3 5 b7.",
+    "notes": [
+      "Eb",
+      "Gb",
+      "Bb",
+      "Db"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-ebm7-c-n-l-Eb-Gb-Bb-Db.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Ebm7"
+  },
+  {
+    "symbol": "Ebdim7",
+    "fullName": "Eb diminished seventh",
+    "description": "The Eb diminished seventh Chord for Piano has the notes Eb Gb A C and interval structure 1 b3 b5 6.",
+    "notes": [
+      "Eb",
+      "Gb",
+      "A",
+      "C"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-ebdim7-c-n-l-Eb-Gb-A-C.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Ebdim7"
+  },
+  {
+    "symbol": "Ebm(maj7)",
+    "fullName": "Eb minor major seventh",
+    "description": "The Eb minor major seventh Chord for Piano has the notes Eb Gb Bb D and interval structure 1 b3 5 7.",
+    "notes": [
+      "Eb",
+      "Gb",
+      "Bb",
+      "D"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-ebmmaj7-c-n-l-Eb-Gb-Bb-D.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Ebm(maj7)"
+  },
+  {
+    "symbol": "Ebm7b5",
+    "fullName": "Eb minor seventh flat five",
+    "description": "The Eb minor seventh flat five Chord for Piano has the notes Eb Gb A Db and interval structure 1 b3 b5 b7.",
+    "notes": [
+      "Eb",
+      "Gb",
+      "A",
+      "Db"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-ebm7b5-c-n-l-Eb-Gb-A-Db.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Ebm7b5"
+  },
+  {
+    "symbol": "Ebsus2",
+    "fullName": "Eb suspended second",
+    "description": "The Eb suspended second Chord for Piano has the notes Eb F Bb and interval structure 1 2 5.",
+    "notes": [
+      "Eb",
+      "F",
+      "Bb"
+    ],
+    "intervals": [
+      "1",
+      "2",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-ebsus2-c-n-l-Eb-F-Bb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Ebsus2"
+  },
+  {
+    "symbol": "Ebsus4",
+    "fullName": "Eb suspended fourth",
+    "description": "The Eb suspended fourth Chord for Piano has the notes Eb Ab Bb and interval structure 1 4 5.",
+    "notes": [
+      "Eb",
+      "Ab",
+      "Bb"
+    ],
+    "intervals": [
+      "1",
+      "4",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-ebsus4-c-n-l-Eb-Ab-Bb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Ebsus4"
+  },
+  {
+    "symbol": "Eb6",
+    "fullName": "Eb sixth",
+    "description": "The Eb sixth Chord for Piano has the notes Eb G Bb C and interval structure 1 3 5 6.",
+    "notes": [
+      "Eb",
+      "G",
+      "Bb",
+      "C"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-eb6-c-n-l-Eb-G-Bb-C.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Eb6"
+  },
+  {
+    "symbol": "Eb6/9",
+    "fullName": "Eb sixth ninth",
+    "description": "The Eb sixth ninth Chord for Piano has the notes Eb G Bb C F and interval structure 1 3 5 6 9.",
+    "notes": [
+      "Eb",
+      "G",
+      "Bb",
+      "C",
+      "F"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-eb6_9-c-n-l-Eb-G-Bb-C-F.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Eb6%2F9"
+  },
+  {
+    "symbol": "Eb9",
+    "fullName": "Eb dominant ninth",
+    "description": "The Eb dominant ninth Chord for Piano has the notes Eb G Bb Db F and interval structure 1 3 5 b7 9.",
+    "notes": [
+      "Eb",
+      "G",
+      "Bb",
+      "Db",
+      "F"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-eb9-c-n-l-Eb-G-Bb-Db-F.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Eb9"
+  },
+  {
+    "symbol": "Eb11",
+    "fullName": "Eb dominant eleventh",
+    "description": "The Eb dominant eleventh Chord for Piano has the notes Eb G Bb Db F Ab and interval structure 1 3 5 b7 9 11.",
+    "notes": [
+      "Eb",
+      "G",
+      "Bb",
+      "Db",
+      "F",
+      "Ab"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "11"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-eb11-c-n-l-Eb-G-Bb-Db-F-Ab.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Eb11"
+  },
+  {
+    "symbol": "Eb13",
+    "fullName": "Eb dominant thirteenth",
+    "description": "The Eb dominant thirteenth Chord for Piano has the notes Eb G Bb Db F C and interval structure 1 3 5 b7 9 13.",
+    "notes": [
+      "Eb",
+      "G",
+      "Bb",
+      "Db",
+      "F",
+      "C"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "13"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-eb13-c-n-l-Eb-G-Bb-Db-F-C.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Eb13"
+  },
+  {
+    "symbol": "Eb5",
+    "fullName": "Eb fifth",
+    "description": "The Eb fifth Chord for Piano has the notes Eb Bb and interval structure 1 5.",
+    "notes": [
+      "Eb",
+      "Bb"
+    ],
+    "intervals": [
+      "1",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-eb5-c-n-l-Eb-Bb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Eb5"
+  },
+  {
+    "symbol": "E",
+    "fullName": "E major",
+    "description": "The E major Chord for Piano has the notes E Ab B and interval structure 1 3 5.",
+    "notes": [
+      "E",
+      "Ab",
+      "B"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-e-c-n-l-E-Ab-B.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/E"
+  },
+  {
+    "symbol": "Em",
+    "fullName": "E minor",
+    "description": "The E minor Chord for Piano has the notes E G B and interval structure 1 b3 5.",
+    "notes": [
+      "E",
+      "G",
+      "B"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-em-c-n-l-E-G-B.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Em"
+  },
+  {
+    "symbol": "Edim",
+    "fullName": "E diminished",
+    "description": "The E diminished Chord for Piano has the notes E G Bb and interval structure 1 b3 b5.",
+    "notes": [
+      "E",
+      "G",
+      "Bb"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-edim-c-n-l-E-G-Bb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Edim"
+  },
+  {
+    "symbol": "Eaug",
+    "fullName": "E augmented",
+    "description": "The E augmented Chord for Piano has the notes E Ab C and interval structure 1 3 #5.",
+    "notes": [
+      "E",
+      "Ab",
+      "C"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "#5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-eaug-c-n-l-E-Ab-C.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Eaug"
+  },
+  {
+    "symbol": "Emaj7",
+    "fullName": "E major seventh",
+    "description": "The E major seventh Chord for Piano has the notes E Ab B Eb and interval structure 1 3 5 7.",
+    "notes": [
+      "E",
+      "Ab",
+      "B",
+      "Eb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-emaj7-c-n-l-E-Ab-B-Eb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Emaj7"
+  },
+  {
+    "symbol": "E7",
+    "fullName": "E dominant seventh",
+    "description": "The E dominant seventh Chord for Piano has the notes E Ab B D and interval structure 1 3 5 b7.",
+    "notes": [
+      "E",
+      "Ab",
+      "B",
+      "D"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-e7-c-n-l-E-Ab-B-D.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/E7"
+  },
+  {
+    "symbol": "Em7",
+    "fullName": "E minor seventh",
+    "description": "The E minor seventh Chord for Piano has the notes E G B D and interval structure 1 b3 5 b7.",
+    "notes": [
+      "E",
+      "G",
+      "B",
+      "D"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-em7-c-n-l-E-G-B-D.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Em7"
+  },
+  {
+    "symbol": "Edim7",
+    "fullName": "E diminished seventh",
+    "description": "The E diminished seventh Chord for Piano has the notes E G Bb Db and interval structure 1 b3 b5 6.",
+    "notes": [
+      "E",
+      "G",
+      "Bb",
+      "Db"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-edim7-c-n-l-E-G-Bb-Db.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Edim7"
+  },
+  {
+    "symbol": "Em(maj7)",
+    "fullName": "E minor major seventh",
+    "description": "The E minor major seventh Chord for Piano has the notes E G B Eb and interval structure 1 b3 5 7.",
+    "notes": [
+      "E",
+      "G",
+      "B",
+      "Eb"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-emmaj7-c-n-l-E-G-B-Eb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Em(maj7)"
+  },
+  {
+    "symbol": "Em7b5",
+    "fullName": "E minor seventh flat five",
+    "description": "The E minor seventh flat five Chord for Piano has the notes E G Bb D and interval structure 1 b3 b5 b7.",
+    "notes": [
+      "E",
+      "G",
+      "Bb",
+      "D"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-em7b5-c-n-l-E-G-Bb-D.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Em7b5"
+  },
+  {
+    "symbol": "Esus2",
+    "fullName": "E suspended second",
+    "description": "The E suspended second Chord for Piano has the notes E Gb B and interval structure 1 2 5.",
+    "notes": [
+      "E",
+      "Gb",
+      "B"
+    ],
+    "intervals": [
+      "1",
+      "2",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-esus2-c-n-l-E-Gb-B.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Esus2"
+  },
+  {
+    "symbol": "Esus4",
+    "fullName": "E suspended fourth",
+    "description": "The E suspended fourth Chord for Piano has the notes E A B and interval structure 1 4 5.",
+    "notes": [
+      "E",
+      "A",
+      "B"
+    ],
+    "intervals": [
+      "1",
+      "4",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-esus4-c-n-l-E-A-B.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Esus4"
+  },
+  {
+    "symbol": "E6",
+    "fullName": "E sixth",
+    "description": "The E sixth Chord for Piano has the notes E Ab B Db and interval structure 1 3 5 6.",
+    "notes": [
+      "E",
+      "Ab",
+      "B",
+      "Db"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-e6-c-n-l-E-Ab-B-Db.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/E6"
+  },
+  {
+    "symbol": "E6/9",
+    "fullName": "E sixth ninth",
+    "description": "The E sixth ninth Chord for Piano has the notes E Ab B Db Gb and interval structure 1 3 5 6 9.",
+    "notes": [
+      "E",
+      "Ab",
+      "B",
+      "Db",
+      "Gb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-e6_9-c-n-l-E-Ab-B-Db-Gb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/E6%2F9"
+  },
+  {
+    "symbol": "E9",
+    "fullName": "E dominant ninth",
+    "description": "The E dominant ninth Chord for Piano has the notes E Ab B D Gb and interval structure 1 3 5 b7 9.",
+    "notes": [
+      "E",
+      "Ab",
+      "B",
+      "D",
+      "Gb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-e9-c-n-l-E-Ab-B-D-Gb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/E9"
+  },
+  {
+    "symbol": "E11",
+    "fullName": "E dominant eleventh",
+    "description": "The E dominant eleventh Chord for Piano has the notes E Ab B D Gb A and interval structure 1 3 5 b7 9 11.",
+    "notes": [
+      "E",
+      "Ab",
+      "B",
+      "D",
+      "Gb",
+      "A"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "11"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-e11-c-n-l-E-Ab-B-D-Gb-A.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/E11"
+  },
+  {
+    "symbol": "E13",
+    "fullName": "E dominant thirteenth",
+    "description": "The E dominant thirteenth Chord for Piano has the notes E Ab B D Gb Db and interval structure 1 3 5 b7 9 13.",
+    "notes": [
+      "E",
+      "Ab",
+      "B",
+      "D",
+      "Gb",
+      "Db"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "13"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-e13-c-n-l-E-Ab-B-D-Gb-Db.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/E13"
+  },
+  {
+    "symbol": "E5",
+    "fullName": "E fifth",
+    "description": "The E fifth Chord for Piano has the notes E B and interval structure 1 5.",
+    "notes": [
+      "E",
+      "B"
+    ],
+    "intervals": [
+      "1",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-e5-c-n-l-E-B.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/E5"
+  },
+  {
+    "symbol": "F",
+    "fullName": "F major",
+    "description": "The F major Chord for Piano has the notes F A C and interval structure 1 3 5.",
+    "notes": [
+      "F",
+      "A",
+      "C"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-f-c-n-l-F-A-C.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/F"
+  },
+  {
+    "symbol": "Fm",
+    "fullName": "F minor",
+    "description": "The F minor Chord for Piano has the notes F Ab C and interval structure 1 b3 5.",
+    "notes": [
+      "F",
+      "Ab",
+      "C"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-fm-c-n-l-F-Ab-C.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Fm"
+  },
+  {
+    "symbol": "Fdim",
+    "fullName": "F diminished",
+    "description": "The F diminished Chord for Piano has the notes F Ab B and interval structure 1 b3 b5.",
+    "notes": [
+      "F",
+      "Ab",
+      "B"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-fdim-c-n-l-F-Ab-B.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Fdim"
+  },
+  {
+    "symbol": "Faug",
+    "fullName": "F augmented",
+    "description": "The F augmented Chord for Piano has the notes F A Db and interval structure 1 3 #5.",
+    "notes": [
+      "F",
+      "A",
+      "Db"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "#5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-faug-c-n-l-F-A-Db.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Faug"
+  },
+  {
+    "symbol": "Fmaj7",
+    "fullName": "F major seventh",
+    "description": "The F major seventh Chord for Piano has the notes F A C E and interval structure 1 3 5 7.",
+    "notes": [
+      "F",
+      "A",
+      "C",
+      "E"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-fmaj7-c-n-l-F-A-C-E.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Fmaj7"
+  },
+  {
+    "symbol": "F7",
+    "fullName": "F dominant seventh",
+    "description": "The F dominant seventh Chord for Piano has the notes F A C Eb and interval structure 1 3 5 b7.",
+    "notes": [
+      "F",
+      "A",
+      "C",
+      "Eb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-f7-c-n-l-F-A-C-Eb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/F7"
+  },
+  {
+    "symbol": "Fm7",
+    "fullName": "F minor seventh",
+    "description": "The F minor seventh Chord for Piano has the notes F Ab C Eb and interval structure 1 b3 5 b7.",
+    "notes": [
+      "F",
+      "Ab",
+      "C",
+      "Eb"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-fm7-c-n-l-F-Ab-C-Eb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Fm7"
+  },
+  {
+    "symbol": "Fdim7",
+    "fullName": "F diminished seventh",
+    "description": "The F diminished seventh Chord for Piano has the notes F Ab B D and interval structure 1 b3 b5 6.",
+    "notes": [
+      "F",
+      "Ab",
+      "B",
+      "D"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-fdim7-c-n-l-F-Ab-B-D.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Fdim7"
+  },
+  {
+    "symbol": "Fm(maj7)",
+    "fullName": "F minor major seventh",
+    "description": "The F minor major seventh Chord for Piano has the notes F Ab C E and interval structure 1 b3 5 7.",
+    "notes": [
+      "F",
+      "Ab",
+      "C",
+      "E"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-fmmaj7-c-n-l-F-Ab-C-E.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Fm(maj7)"
+  },
+  {
+    "symbol": "Fm7b5",
+    "fullName": "F minor seventh flat five",
+    "description": "The F minor seventh flat five Chord for Piano has the notes F Ab B Eb and interval structure 1 b3 b5 b7.",
+    "notes": [
+      "F",
+      "Ab",
+      "B",
+      "Eb"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-fm7b5-c-n-l-F-Ab-B-Eb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Fm7b5"
+  },
+  {
+    "symbol": "Fsus2",
+    "fullName": "F suspended second",
+    "description": "The F suspended second Chord for Piano has the notes F G C and interval structure 1 2 5.",
+    "notes": [
+      "F",
+      "G",
+      "C"
+    ],
+    "intervals": [
+      "1",
+      "2",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-fsus2-c-n-l-F-G-C.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Fsus2"
+  },
+  {
+    "symbol": "Fsus4",
+    "fullName": "F suspended fourth",
+    "description": "The F suspended fourth Chord for Piano has the notes F Bb C and interval structure 1 4 5.",
+    "notes": [
+      "F",
+      "Bb",
+      "C"
+    ],
+    "intervals": [
+      "1",
+      "4",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-fsus4-c-n-l-F-Bb-C.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Fsus4"
+  },
+  {
+    "symbol": "F6",
+    "fullName": "F sixth",
+    "description": "The F sixth Chord for Piano has the notes F A C D and interval structure 1 3 5 6.",
+    "notes": [
+      "F",
+      "A",
+      "C",
+      "D"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-f6-c-n-l-F-A-C-D.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/F6"
+  },
+  {
+    "symbol": "F6/9",
+    "fullName": "F sixth ninth",
+    "description": "The F sixth ninth Chord for Piano has the notes F A C D G and interval structure 1 3 5 6 9.",
+    "notes": [
+      "F",
+      "A",
+      "C",
+      "D",
+      "G"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-f6_9-c-n-l-F-A-C-D-G.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/F6%2F9"
+  },
+  {
+    "symbol": "F9",
+    "fullName": "F dominant ninth",
+    "description": "The F dominant ninth Chord for Piano has the notes F A C Eb G and interval structure 1 3 5 b7 9.",
+    "notes": [
+      "F",
+      "A",
+      "C",
+      "Eb",
+      "G"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-f9-c-n-l-F-A-C-Eb-G.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/F9"
+  },
+  {
+    "symbol": "F11",
+    "fullName": "F dominant eleventh",
+    "description": "The F dominant eleventh Chord for Piano has the notes F A C Eb G Bb and interval structure 1 3 5 b7 9 11.",
+    "notes": [
+      "F",
+      "A",
+      "C",
+      "Eb",
+      "G",
+      "Bb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "11"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-f11-c-n-l-F-A-C-Eb-G-Bb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/F11"
+  },
+  {
+    "symbol": "F13",
+    "fullName": "F dominant thirteenth",
+    "description": "The F dominant thirteenth Chord for Piano has the notes F A C Eb G D and interval structure 1 3 5 b7 9 13.",
+    "notes": [
+      "F",
+      "A",
+      "C",
+      "Eb",
+      "G",
+      "D"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "13"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-f13-c-n-l-F-A-C-Eb-G-D.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/F13"
+  },
+  {
+    "symbol": "F5",
+    "fullName": "F fifth",
+    "description": "The F fifth Chord for Piano has the notes F C and interval structure 1 5.",
+    "notes": [
+      "F",
+      "C"
+    ],
+    "intervals": [
+      "1",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-f5-c-n-l-F-C.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/F5"
+  },
+  {
+    "symbol": "F#",
+    "fullName": "F# major",
+    "description": "The F# major Chord for Piano has the notes Gb Bb Db and interval structure 1 3 5.",
+    "notes": [
+      "Gb",
+      "Bb",
+      "Db"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-fs-c-n-l-Gb-Bb-Db.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/F%23"
+  },
+  {
+    "symbol": "F#m",
+    "fullName": "F# minor",
+    "description": "The F# minor Chord for Piano has the notes Gb A Db and interval structure 1 b3 5.",
+    "notes": [
+      "Gb",
+      "A",
+      "Db"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-fsm-c-n-l-Gb-A-Db.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/F%23m"
+  },
+  {
+    "symbol": "F#dim",
+    "fullName": "F# diminished",
+    "description": "The F# diminished Chord for Piano has the notes Gb A C and interval structure 1 b3 b5.",
+    "notes": [
+      "Gb",
+      "A",
+      "C"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-fsdim-c-n-l-Gb-A-C.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/F%23dim"
+  },
+  {
+    "symbol": "F#aug",
+    "fullName": "F# augmented",
+    "description": "The F# augmented Chord for Piano has the notes Gb Bb D and interval structure 1 3 #5.",
+    "notes": [
+      "Gb",
+      "Bb",
+      "D"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "#5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-fsaug-c-n-l-Gb-Bb-D.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/F%23aug"
+  },
+  {
+    "symbol": "F#maj7",
+    "fullName": "F# major seventh",
+    "description": "The F# major seventh Chord for Piano has the notes Gb Bb Db F and interval structure 1 3 5 7.",
+    "notes": [
+      "Gb",
+      "Bb",
+      "Db",
+      "F"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-fsmaj7-c-n-l-Gb-Bb-Db-F.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/F%23maj7"
+  },
+  {
+    "symbol": "F#7",
+    "fullName": "F# dominant seventh",
+    "description": "The F# dominant seventh Chord for Piano has the notes Gb Bb Db E and interval structure 1 3 5 b7.",
+    "notes": [
+      "Gb",
+      "Bb",
+      "Db",
+      "E"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-fs7-c-n-l-Gb-Bb-Db-E.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/F%237"
+  },
+  {
+    "symbol": "F#m7",
+    "fullName": "F# minor seventh",
+    "description": "The F# minor seventh Chord for Piano has the notes Gb A Db E and interval structure 1 b3 5 b7.",
+    "notes": [
+      "Gb",
+      "A",
+      "Db",
+      "E"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-fsm7-c-n-l-Gb-A-Db-E.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/F%23m7"
+  },
+  {
+    "symbol": "F#dim7",
+    "fullName": "F# diminished seventh",
+    "description": "The F# diminished seventh Chord for Piano has the notes Gb A C Eb and interval structure 1 b3 b5 6.",
+    "notes": [
+      "Gb",
+      "A",
+      "C",
+      "Eb"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-fsdim7-c-n-l-Gb-A-C-Eb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/F%23dim7"
+  },
+  {
+    "symbol": "F#m(maj7)",
+    "fullName": "F# minor major seventh",
+    "description": "The F# minor major seventh Chord for Piano has the notes Gb A Db F and interval structure 1 b3 5 7.",
+    "notes": [
+      "Gb",
+      "A",
+      "Db",
+      "F"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-fsmmaj7-c-n-l-Gb-A-Db-F.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/F%23m(maj7)"
+  },
+  {
+    "symbol": "F#m7b5",
+    "fullName": "F# minor seventh flat five",
+    "description": "The F# minor seventh flat five Chord for Piano has the notes Gb A C E and interval structure 1 b3 b5 b7.",
+    "notes": [
+      "Gb",
+      "A",
+      "C",
+      "E"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-fsm7b5-c-n-l-Gb-A-C-E.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/F%23m7b5"
+  },
+  {
+    "symbol": "F#sus2",
+    "fullName": "F# suspended second",
+    "description": "The F# suspended second Chord for Piano has the notes Gb Ab Db and interval structure 1 2 5.",
+    "notes": [
+      "Gb",
+      "Ab",
+      "Db"
+    ],
+    "intervals": [
+      "1",
+      "2",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-fssus2-c-n-l-Gb-Ab-Db.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/F%23sus2"
+  },
+  {
+    "symbol": "F#sus4",
+    "fullName": "F# suspended fourth",
+    "description": "The F# suspended fourth Chord for Piano has the notes Gb B Db and interval structure 1 4 5.",
+    "notes": [
+      "Gb",
+      "B",
+      "Db"
+    ],
+    "intervals": [
+      "1",
+      "4",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-fssus4-c-n-l-Gb-B-Db.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/F%23sus4"
+  },
+  {
+    "symbol": "F#6",
+    "fullName": "F# sixth",
+    "description": "The F# sixth Chord for Piano has the notes Gb Bb Db Eb and interval structure 1 3 5 6.",
+    "notes": [
+      "Gb",
+      "Bb",
+      "Db",
+      "Eb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-fs6-c-n-l-Gb-Bb-Db-Eb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/F%236"
+  },
+  {
+    "symbol": "F#6/9",
+    "fullName": "F# sixth ninth",
+    "description": "The F# sixth ninth Chord for Piano has the notes Gb Bb Db Eb Ab and interval structure 1 3 5 6 9.",
+    "notes": [
+      "Gb",
+      "Bb",
+      "Db",
+      "Eb",
+      "Ab"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-fs6_9-c-n-l-Gb-Bb-Db-Eb-Ab.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/F%236%2F9"
+  },
+  {
+    "symbol": "F#9",
+    "fullName": "F# dominant ninth",
+    "description": "The F# dominant ninth Chord for Piano has the notes Gb Bb Db E Ab and interval structure 1 3 5 b7 9.",
+    "notes": [
+      "Gb",
+      "Bb",
+      "Db",
+      "E",
+      "Ab"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-fs9-c-n-l-Gb-Bb-Db-E-Ab.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/F%239"
+  },
+  {
+    "symbol": "F#11",
+    "fullName": "F# dominant eleventh",
+    "description": "The F# dominant eleventh Chord for Piano has the notes Gb Bb Db E Ab B and interval structure 1 3 5 b7 9 11.",
+    "notes": [
+      "Gb",
+      "Bb",
+      "Db",
+      "E",
+      "Ab",
+      "B"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "11"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-fs11-c-n-l-Gb-Bb-Db-E-Ab-B.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/F%2311"
+  },
+  {
+    "symbol": "F#13",
+    "fullName": "F# dominant thirteenth",
+    "description": "The F# dominant thirteenth Chord for Piano has the notes Gb Bb Db E Ab Eb and interval structure 1 3 5 b7 9 13.",
+    "notes": [
+      "Gb",
+      "Bb",
+      "Db",
+      "E",
+      "Ab",
+      "Eb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "13"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-fs13-c-n-l-Gb-Bb-Db-E-Ab-Eb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/F%2313"
+  },
+  {
+    "symbol": "F#5",
+    "fullName": "F# fifth",
+    "description": "The F# fifth Chord for Piano has the notes Gb Db and interval structure 1 5.",
+    "notes": [
+      "Gb",
+      "Db"
+    ],
+    "intervals": [
+      "1",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-fs5-c-n-l-Gb-Db.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/F%235"
+  },
+  {
+    "symbol": "Gb",
+    "fullName": "Gb major",
+    "description": "The Gb major Chord for Piano has the notes Gb Bb Db and interval structure 1 3 5.",
+    "notes": [
+      "Gb",
+      "Bb",
+      "Db"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gb-c-n-l-Gb-Bb-Db.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Gb"
+  },
+  {
+    "symbol": "Gbm",
+    "fullName": "Gb minor",
+    "description": "The Gb minor Chord for Piano has the notes Gb A Db and interval structure 1 b3 5.",
+    "notes": [
+      "Gb",
+      "A",
+      "Db"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gbm-c-n-l-Gb-A-Db.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Gbm"
+  },
+  {
+    "symbol": "Gbdim",
+    "fullName": "Gb diminished",
+    "description": "The Gb diminished Chord for Piano has the notes Gb A C and interval structure 1 b3 b5.",
+    "notes": [
+      "Gb",
+      "A",
+      "C"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gbdim-c-n-l-Gb-A-C.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Gbdim"
+  },
+  {
+    "symbol": "Gbaug",
+    "fullName": "Gb augmented",
+    "description": "The Gb augmented Chord for Piano has the notes Gb Bb D and interval structure 1 3 #5.",
+    "notes": [
+      "Gb",
+      "Bb",
+      "D"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "#5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gbaug-c-n-l-Gb-Bb-D.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Gbaug"
+  },
+  {
+    "symbol": "Gbmaj7",
+    "fullName": "Gb major seventh",
+    "description": "The Gb major seventh Chord for Piano has the notes Gb Bb Db F and interval structure 1 3 5 7.",
+    "notes": [
+      "Gb",
+      "Bb",
+      "Db",
+      "F"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gbmaj7-c-n-l-Gb-Bb-Db-F.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Gbmaj7"
+  },
+  {
+    "symbol": "Gb7",
+    "fullName": "Gb dominant seventh",
+    "description": "The Gb dominant seventh Chord for Piano has the notes Gb Bb Db E and interval structure 1 3 5 b7.",
+    "notes": [
+      "Gb",
+      "Bb",
+      "Db",
+      "E"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gb7-c-n-l-Gb-Bb-Db-E.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Gb7"
+  },
+  {
+    "symbol": "Gbm7",
+    "fullName": "Gb minor seventh",
+    "description": "The Gb minor seventh Chord for Piano has the notes Gb A Db E and interval structure 1 b3 5 b7.",
+    "notes": [
+      "Gb",
+      "A",
+      "Db",
+      "E"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gbm7-c-n-l-Gb-A-Db-E.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Gbm7"
+  },
+  {
+    "symbol": "Gbdim7",
+    "fullName": "Gb diminished seventh",
+    "description": "The Gb diminished seventh Chord for Piano has the notes Gb A C Eb and interval structure 1 b3 b5 6.",
+    "notes": [
+      "Gb",
+      "A",
+      "C",
+      "Eb"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gbdim7-c-n-l-Gb-A-C-Eb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Gbdim7"
+  },
+  {
+    "symbol": "Gbm(maj7)",
+    "fullName": "Gb minor major seventh",
+    "description": "The Gb minor major seventh Chord for Piano has the notes Gb A Db F and interval structure 1 b3 5 7.",
+    "notes": [
+      "Gb",
+      "A",
+      "Db",
+      "F"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gbmmaj7-c-n-l-Gb-A-Db-F.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Gbm(maj7)"
+  },
+  {
+    "symbol": "Gbm7b5",
+    "fullName": "Gb minor seventh flat five",
+    "description": "The Gb minor seventh flat five Chord for Piano has the notes Gb A C E and interval structure 1 b3 b5 b7.",
+    "notes": [
+      "Gb",
+      "A",
+      "C",
+      "E"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gbm7b5-c-n-l-Gb-A-C-E.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Gbm7b5"
+  },
+  {
+    "symbol": "Gbsus2",
+    "fullName": "Gb suspended second",
+    "description": "The Gb suspended second Chord for Piano has the notes Gb Ab Db and interval structure 1 2 5.",
+    "notes": [
+      "Gb",
+      "Ab",
+      "Db"
+    ],
+    "intervals": [
+      "1",
+      "2",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gbsus2-c-n-l-Gb-Ab-Db.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Gbsus2"
+  },
+  {
+    "symbol": "Gbsus4",
+    "fullName": "Gb suspended fourth",
+    "description": "The Gb suspended fourth Chord for Piano has the notes Gb B Db and interval structure 1 4 5.",
+    "notes": [
+      "Gb",
+      "B",
+      "Db"
+    ],
+    "intervals": [
+      "1",
+      "4",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gbsus4-c-n-l-Gb-B-Db.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Gbsus4"
+  },
+  {
+    "symbol": "Gb6",
+    "fullName": "Gb sixth",
+    "description": "The Gb sixth Chord for Piano has the notes Gb Bb Db Eb and interval structure 1 3 5 6.",
+    "notes": [
+      "Gb",
+      "Bb",
+      "Db",
+      "Eb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gb6-c-n-l-Gb-Bb-Db-Eb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Gb6"
+  },
+  {
+    "symbol": "Gb6/9",
+    "fullName": "Gb sixth ninth",
+    "description": "The Gb sixth ninth Chord for Piano has the notes Gb Bb Db Eb Ab and interval structure 1 3 5 6 9.",
+    "notes": [
+      "Gb",
+      "Bb",
+      "Db",
+      "Eb",
+      "Ab"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gb6_9-c-n-l-Gb-Bb-Db-Eb-Ab.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Gb6%2F9"
+  },
+  {
+    "symbol": "Gb9",
+    "fullName": "Gb dominant ninth",
+    "description": "The Gb dominant ninth Chord for Piano has the notes Gb Bb Db E Ab and interval structure 1 3 5 b7 9.",
+    "notes": [
+      "Gb",
+      "Bb",
+      "Db",
+      "E",
+      "Ab"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gb9-c-n-l-Gb-Bb-Db-E-Ab.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Gb9"
+  },
+  {
+    "symbol": "Gb11",
+    "fullName": "Gb dominant eleventh",
+    "description": "The Gb dominant eleventh Chord for Piano has the notes Gb Bb Db E Ab B and interval structure 1 3 5 b7 9 11.",
+    "notes": [
+      "Gb",
+      "Bb",
+      "Db",
+      "E",
+      "Ab",
+      "B"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "11"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gb11-c-n-l-Gb-Bb-Db-E-Ab-B.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Gb11"
+  },
+  {
+    "symbol": "Gb13",
+    "fullName": "Gb dominant thirteenth",
+    "description": "The Gb dominant thirteenth Chord for Piano has the notes Gb Bb Db E Ab Eb and interval structure 1 3 5 b7 9 13.",
+    "notes": [
+      "Gb",
+      "Bb",
+      "Db",
+      "E",
+      "Ab",
+      "Eb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "13"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gb13-c-n-l-Gb-Bb-Db-E-Ab-Eb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Gb13"
+  },
+  {
+    "symbol": "Gb5",
+    "fullName": "Gb fifth",
+    "description": "The Gb fifth Chord for Piano has the notes Gb Db and interval structure 1 5.",
+    "notes": [
+      "Gb",
+      "Db"
+    ],
+    "intervals": [
+      "1",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gb5-c-n-l-Gb-Db.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Gb5"
+  },
+  {
+    "symbol": "G",
+    "fullName": "G major",
+    "description": "The G major Chord for Piano has the notes G B D and interval structure 1 3 5.",
+    "notes": [
+      "G",
+      "B",
+      "D"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-g-c-n-l-G-B-D.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/G"
+  },
+  {
+    "symbol": "Gm",
+    "fullName": "G minor",
+    "description": "The G minor Chord for Piano has the notes G Bb D and interval structure 1 b3 5.",
+    "notes": [
+      "G",
+      "Bb",
+      "D"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gm-c-n-l-G-Bb-D.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Gm"
+  },
+  {
+    "symbol": "Gdim",
+    "fullName": "G diminished",
+    "description": "The G diminished Chord for Piano has the notes G Bb Db and interval structure 1 b3 b5.",
+    "notes": [
+      "G",
+      "Bb",
+      "Db"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gdim-c-n-l-G-Bb-Db.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Gdim"
+  },
+  {
+    "symbol": "Gaug",
+    "fullName": "G augmented",
+    "description": "The G augmented Chord for Piano has the notes G B Eb and interval structure 1 3 #5.",
+    "notes": [
+      "G",
+      "B",
+      "Eb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "#5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gaug-c-n-l-G-B-Eb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Gaug"
+  },
+  {
+    "symbol": "Gmaj7",
+    "fullName": "G major seventh",
+    "description": "The G major seventh Chord for Piano has the notes G B D Gb and interval structure 1 3 5 7.",
+    "notes": [
+      "G",
+      "B",
+      "D",
+      "Gb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gmaj7-c-n-l-G-B-D-Gb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Gmaj7"
+  },
+  {
+    "symbol": "G7",
+    "fullName": "G dominant seventh",
+    "description": "The G dominant seventh Chord for Piano has the notes G B D F and interval structure 1 3 5 b7.",
+    "notes": [
+      "G",
+      "B",
+      "D",
+      "F"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-g7-c-n-l-G-B-D-F.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/G7"
+  },
+  {
+    "symbol": "Gm7",
+    "fullName": "G minor seventh",
+    "description": "The G minor seventh Chord for Piano has the notes G Bb D F and interval structure 1 b3 5 b7.",
+    "notes": [
+      "G",
+      "Bb",
+      "D",
+      "F"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gm7-c-n-l-G-Bb-D-F.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Gm7"
+  },
+  {
+    "symbol": "Gdim7",
+    "fullName": "G diminished seventh",
+    "description": "The G diminished seventh Chord for Piano has the notes G Bb Db E and interval structure 1 b3 b5 6.",
+    "notes": [
+      "G",
+      "Bb",
+      "Db",
+      "E"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gdim7-c-n-l-G-Bb-Db-E.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Gdim7"
+  },
+  {
+    "symbol": "Gm(maj7)",
+    "fullName": "G minor major seventh",
+    "description": "The G minor major seventh Chord for Piano has the notes G Bb D Gb and interval structure 1 b3 5 7.",
+    "notes": [
+      "G",
+      "Bb",
+      "D",
+      "Gb"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gmmaj7-c-n-l-G-Bb-D-Gb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Gm(maj7)"
+  },
+  {
+    "symbol": "Gm7b5",
+    "fullName": "G minor seventh flat five",
+    "description": "The G minor seventh flat five Chord for Piano has the notes G Bb Db F and interval structure 1 b3 b5 b7.",
+    "notes": [
+      "G",
+      "Bb",
+      "Db",
+      "F"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gm7b5-c-n-l-G-Bb-Db-F.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Gm7b5"
+  },
+  {
+    "symbol": "Gsus2",
+    "fullName": "G suspended second",
+    "description": "The G suspended second Chord for Piano has the notes G A D and interval structure 1 2 5.",
+    "notes": [
+      "G",
+      "A",
+      "D"
+    ],
+    "intervals": [
+      "1",
+      "2",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gsus2-c-n-l-G-A-D.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Gsus2"
+  },
+  {
+    "symbol": "Gsus4",
+    "fullName": "G suspended fourth",
+    "description": "The G suspended fourth Chord for Piano has the notes G C D and interval structure 1 4 5.",
+    "notes": [
+      "G",
+      "C",
+      "D"
+    ],
+    "intervals": [
+      "1",
+      "4",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gsus4-c-n-l-G-C-D.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Gsus4"
+  },
+  {
+    "symbol": "G6",
+    "fullName": "G sixth",
+    "description": "The G sixth Chord for Piano has the notes G B D E and interval structure 1 3 5 6.",
+    "notes": [
+      "G",
+      "B",
+      "D",
+      "E"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-g6-c-n-l-G-B-D-E.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/G6"
+  },
+  {
+    "symbol": "G6/9",
+    "fullName": "G sixth ninth",
+    "description": "The G sixth ninth Chord for Piano has the notes G B D E A and interval structure 1 3 5 6 9.",
+    "notes": [
+      "G",
+      "B",
+      "D",
+      "E",
+      "A"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-g6_9-c-n-l-G-B-D-E-A.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/G6%2F9"
+  },
+  {
+    "symbol": "G9",
+    "fullName": "G dominant ninth",
+    "description": "The G dominant ninth Chord for Piano has the notes G B D F A and interval structure 1 3 5 b7 9.",
+    "notes": [
+      "G",
+      "B",
+      "D",
+      "F",
+      "A"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-g9-c-n-l-G-B-D-F-A.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/G9"
+  },
+  {
+    "symbol": "G11",
+    "fullName": "G dominant eleventh",
+    "description": "The G dominant eleventh Chord for Piano has the notes G B D F A C and interval structure 1 3 5 b7 9 11.",
+    "notes": [
+      "G",
+      "B",
+      "D",
+      "F",
+      "A",
+      "C"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "11"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-g11-c-n-l-G-B-D-F-A-C.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/G11"
+  },
+  {
+    "symbol": "G13",
+    "fullName": "G dominant thirteenth",
+    "description": "The G dominant thirteenth Chord for Piano has the notes G B D F A E and interval structure 1 3 5 b7 9 13.",
+    "notes": [
+      "G",
+      "B",
+      "D",
+      "F",
+      "A",
+      "E"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "13"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-g13-c-n-l-G-B-D-F-A-E.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/G13"
+  },
+  {
+    "symbol": "G5",
+    "fullName": "G fifth",
+    "description": "The G fifth Chord for Piano has the notes G D and interval structure 1 5.",
+    "notes": [
+      "G",
+      "D"
+    ],
+    "intervals": [
+      "1",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-g5-c-n-l-G-D.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/G5"
+  },
+  {
+    "symbol": "G#",
+    "fullName": "G# major",
+    "description": "The G# major Chord for Piano has the notes Ab C Eb and interval structure 1 3 5.",
+    "notes": [
+      "Ab",
+      "C",
+      "Eb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gs-c-n-l-Ab-C-Eb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/G%23"
+  },
+  {
+    "symbol": "G#m",
+    "fullName": "G# minor",
+    "description": "The G# minor Chord for Piano has the notes Ab B Eb and interval structure 1 b3 5.",
+    "notes": [
+      "Ab",
+      "B",
+      "Eb"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gsm-c-n-l-Ab-B-Eb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/G%23m"
+  },
+  {
+    "symbol": "G#dim",
+    "fullName": "G# diminished",
+    "description": "The G# diminished Chord for Piano has the notes Ab B D and interval structure 1 b3 b5.",
+    "notes": [
+      "Ab",
+      "B",
+      "D"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gsdim-c-n-l-Ab-B-D.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/G%23dim"
+  },
+  {
+    "symbol": "G#aug",
+    "fullName": "G# augmented",
+    "description": "The G# augmented Chord for Piano has the notes Ab C E and interval structure 1 3 #5.",
+    "notes": [
+      "Ab",
+      "C",
+      "E"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "#5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gsaug-c-n-l-Ab-C-E.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/G%23aug"
+  },
+  {
+    "symbol": "G#maj7",
+    "fullName": "G# major seventh",
+    "description": "The G# major seventh Chord for Piano has the notes Ab C Eb G and interval structure 1 3 5 7.",
+    "notes": [
+      "Ab",
+      "C",
+      "Eb",
+      "G"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gsmaj7-c-n-l-Ab-C-Eb-G.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/G%23maj7"
+  },
+  {
+    "symbol": "G#7",
+    "fullName": "G# dominant seventh",
+    "description": "The G# dominant seventh Chord for Piano has the notes Ab C Eb Gb and interval structure 1 3 5 b7.",
+    "notes": [
+      "Ab",
+      "C",
+      "Eb",
+      "Gb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gs7-c-n-l-Ab-C-Eb-Gb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/G%237"
+  },
+  {
+    "symbol": "G#m7",
+    "fullName": "G# minor seventh",
+    "description": "The G# minor seventh Chord for Piano has the notes Ab B Eb Gb and interval structure 1 b3 5 b7.",
+    "notes": [
+      "Ab",
+      "B",
+      "Eb",
+      "Gb"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gsm7-c-n-l-Ab-B-Eb-Gb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/G%23m7"
+  },
+  {
+    "symbol": "G#dim7",
+    "fullName": "G# diminished seventh",
+    "description": "The G# diminished seventh Chord for Piano has the notes Ab B D F and interval structure 1 b3 b5 6.",
+    "notes": [
+      "Ab",
+      "B",
+      "D",
+      "F"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gsdim7-c-n-l-Ab-B-D-F.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/G%23dim7"
+  },
+  {
+    "symbol": "G#m(maj7)",
+    "fullName": "G# minor major seventh",
+    "description": "The G# minor major seventh Chord for Piano has the notes Ab B Eb G and interval structure 1 b3 5 7.",
+    "notes": [
+      "Ab",
+      "B",
+      "Eb",
+      "G"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gsmmaj7-c-n-l-Ab-B-Eb-G.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/G%23m(maj7)"
+  },
+  {
+    "symbol": "G#m7b5",
+    "fullName": "G# minor seventh flat five",
+    "description": "The G# minor seventh flat five Chord for Piano has the notes Ab B D Gb and interval structure 1 b3 b5 b7.",
+    "notes": [
+      "Ab",
+      "B",
+      "D",
+      "Gb"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gsm7b5-c-n-l-Ab-B-D-Gb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/G%23m7b5"
+  },
+  {
+    "symbol": "G#sus2",
+    "fullName": "G# suspended second",
+    "description": "The G# suspended second Chord for Piano has the notes Ab Bb Eb and interval structure 1 2 5.",
+    "notes": [
+      "Ab",
+      "Bb",
+      "Eb"
+    ],
+    "intervals": [
+      "1",
+      "2",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gssus2-c-n-l-Ab-Bb-Eb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/G%23sus2"
+  },
+  {
+    "symbol": "G#sus4",
+    "fullName": "G# suspended fourth",
+    "description": "The G# suspended fourth Chord for Piano has the notes Ab Db Eb and interval structure 1 4 5.",
+    "notes": [
+      "Ab",
+      "Db",
+      "Eb"
+    ],
+    "intervals": [
+      "1",
+      "4",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gssus4-c-n-l-Ab-Db-Eb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/G%23sus4"
+  },
+  {
+    "symbol": "G#6",
+    "fullName": "G# sixth",
+    "description": "The G# sixth Chord for Piano has the notes Ab C Eb F and interval structure 1 3 5 6.",
+    "notes": [
+      "Ab",
+      "C",
+      "Eb",
+      "F"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gs6-c-n-l-Ab-C-Eb-F.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/G%236"
+  },
+  {
+    "symbol": "G#6/9",
+    "fullName": "G# sixth ninth",
+    "description": "The G# sixth ninth Chord for Piano has the notes Ab C Eb F Bb and interval structure 1 3 5 6 9.",
+    "notes": [
+      "Ab",
+      "C",
+      "Eb",
+      "F",
+      "Bb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gs6_9-c-n-l-Ab-C-Eb-F-Bb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/G%236%2F9"
+  },
+  {
+    "symbol": "G#9",
+    "fullName": "G# dominant ninth",
+    "description": "The G# dominant ninth Chord for Piano has the notes Ab C Eb Gb Bb and interval structure 1 3 5 b7 9.",
+    "notes": [
+      "Ab",
+      "C",
+      "Eb",
+      "Gb",
+      "Bb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gs9-c-n-l-Ab-C-Eb-Gb-Bb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/G%239"
+  },
+  {
+    "symbol": "G#11",
+    "fullName": "G# dominant eleventh",
+    "description": "The G# dominant eleventh Chord for Piano has the notes Ab C Eb Gb Bb Db and interval structure 1 3 5 b7 9 11.",
+    "notes": [
+      "Ab",
+      "C",
+      "Eb",
+      "Gb",
+      "Bb",
+      "Db"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "11"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gs11-c-n-l-Ab-C-Eb-Gb-Bb-Db.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/G%2311"
+  },
+  {
+    "symbol": "G#13",
+    "fullName": "G# dominant thirteenth",
+    "description": "The G# dominant thirteenth Chord for Piano has the notes Ab C Eb Gb Bb F and interval structure 1 3 5 b7 9 13.",
+    "notes": [
+      "Ab",
+      "C",
+      "Eb",
+      "Gb",
+      "Bb",
+      "F"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "13"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gs13-c-n-l-Ab-C-Eb-Gb-Bb-F.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/G%2313"
+  },
+  {
+    "symbol": "G#5",
+    "fullName": "G# fifth",
+    "description": "The G# fifth Chord for Piano has the notes Ab Eb and interval structure 1 5.",
+    "notes": [
+      "Ab",
+      "Eb"
+    ],
+    "intervals": [
+      "1",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-gs5-c-n-l-Ab-Eb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/G%235"
+  },
+  {
+    "symbol": "Ab",
+    "fullName": "Ab major",
+    "description": "The Ab major Chord for Piano has the notes Ab C Eb and interval structure 1 3 5.",
+    "notes": [
+      "Ab",
+      "C",
+      "Eb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-ab-c-n-l-Ab-C-Eb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Ab"
+  },
+  {
+    "symbol": "Abm",
+    "fullName": "Ab minor",
+    "description": "The Ab minor Chord for Piano has the notes Ab B Eb and interval structure 1 b3 5.",
+    "notes": [
+      "Ab",
+      "B",
+      "Eb"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-abm-c-n-l-Ab-B-Eb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Abm"
+  },
+  {
+    "symbol": "Abdim",
+    "fullName": "Ab diminished",
+    "description": "The Ab diminished Chord for Piano has the notes Ab B D and interval structure 1 b3 b5.",
+    "notes": [
+      "Ab",
+      "B",
+      "D"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-abdim-c-n-l-Ab-B-D.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Abdim"
+  },
+  {
+    "symbol": "Abaug",
+    "fullName": "Ab augmented",
+    "description": "The Ab augmented Chord for Piano has the notes Ab C E and interval structure 1 3 #5.",
+    "notes": [
+      "Ab",
+      "C",
+      "E"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "#5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-abaug-c-n-l-Ab-C-E.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Abaug"
+  },
+  {
+    "symbol": "Abmaj7",
+    "fullName": "Ab major seventh",
+    "description": "The Ab major seventh Chord for Piano has the notes Ab C Eb G and interval structure 1 3 5 7.",
+    "notes": [
+      "Ab",
+      "C",
+      "Eb",
+      "G"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-abmaj7-c-n-l-Ab-C-Eb-G.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Abmaj7"
+  },
+  {
+    "symbol": "Ab7",
+    "fullName": "Ab dominant seventh",
+    "description": "The Ab dominant seventh Chord for Piano has the notes Ab C Eb Gb and interval structure 1 3 5 b7.",
+    "notes": [
+      "Ab",
+      "C",
+      "Eb",
+      "Gb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-ab7-c-n-l-Ab-C-Eb-Gb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Ab7"
+  },
+  {
+    "symbol": "Abm7",
+    "fullName": "Ab minor seventh",
+    "description": "The Ab minor seventh Chord for Piano has the notes Ab B Eb Gb and interval structure 1 b3 5 b7.",
+    "notes": [
+      "Ab",
+      "B",
+      "Eb",
+      "Gb"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-abm7-c-n-l-Ab-B-Eb-Gb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Abm7"
+  },
+  {
+    "symbol": "Abdim7",
+    "fullName": "Ab diminished seventh",
+    "description": "The Ab diminished seventh Chord for Piano has the notes Ab B D F and interval structure 1 b3 b5 6.",
+    "notes": [
+      "Ab",
+      "B",
+      "D",
+      "F"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-abdim7-c-n-l-Ab-B-D-F.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Abdim7"
+  },
+  {
+    "symbol": "Abm(maj7)",
+    "fullName": "Ab minor major seventh",
+    "description": "The Ab minor major seventh Chord for Piano has the notes Ab B Eb G and interval structure 1 b3 5 7.",
+    "notes": [
+      "Ab",
+      "B",
+      "Eb",
+      "G"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-abmmaj7-c-n-l-Ab-B-Eb-G.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Abm(maj7)"
+  },
+  {
+    "symbol": "Abm7b5",
+    "fullName": "Ab minor seventh flat five",
+    "description": "The Ab minor seventh flat five Chord for Piano has the notes Ab B D Gb and interval structure 1 b3 b5 b7.",
+    "notes": [
+      "Ab",
+      "B",
+      "D",
+      "Gb"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-abm7b5-c-n-l-Ab-B-D-Gb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Abm7b5"
+  },
+  {
+    "symbol": "Absus2",
+    "fullName": "Ab suspended second",
+    "description": "The Ab suspended second Chord for Piano has the notes Ab Bb Eb and interval structure 1 2 5.",
+    "notes": [
+      "Ab",
+      "Bb",
+      "Eb"
+    ],
+    "intervals": [
+      "1",
+      "2",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-absus2-c-n-l-Ab-Bb-Eb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Absus2"
+  },
+  {
+    "symbol": "Absus4",
+    "fullName": "Ab suspended fourth",
+    "description": "The Ab suspended fourth Chord for Piano has the notes Ab Db Eb and interval structure 1 4 5.",
+    "notes": [
+      "Ab",
+      "Db",
+      "Eb"
+    ],
+    "intervals": [
+      "1",
+      "4",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-absus4-c-n-l-Ab-Db-Eb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Absus4"
+  },
+  {
+    "symbol": "Ab6",
+    "fullName": "Ab sixth",
+    "description": "The Ab sixth Chord for Piano has the notes Ab C Eb F and interval structure 1 3 5 6.",
+    "notes": [
+      "Ab",
+      "C",
+      "Eb",
+      "F"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-ab6-c-n-l-Ab-C-Eb-F.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Ab6"
+  },
+  {
+    "symbol": "Ab6/9",
+    "fullName": "Ab sixth ninth",
+    "description": "The Ab sixth ninth Chord for Piano has the notes Ab C Eb F Bb and interval structure 1 3 5 6 9.",
+    "notes": [
+      "Ab",
+      "C",
+      "Eb",
+      "F",
+      "Bb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-ab6_9-c-n-l-Ab-C-Eb-F-Bb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Ab6%2F9"
+  },
+  {
+    "symbol": "Ab9",
+    "fullName": "Ab dominant ninth",
+    "description": "The Ab dominant ninth Chord for Piano has the notes Ab C Eb Gb Bb and interval structure 1 3 5 b7 9.",
+    "notes": [
+      "Ab",
+      "C",
+      "Eb",
+      "Gb",
+      "Bb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-ab9-c-n-l-Ab-C-Eb-Gb-Bb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Ab9"
+  },
+  {
+    "symbol": "Ab11",
+    "fullName": "Ab dominant eleventh",
+    "description": "The Ab dominant eleventh Chord for Piano has the notes Ab C Eb Gb Bb Db and interval structure 1 3 5 b7 9 11.",
+    "notes": [
+      "Ab",
+      "C",
+      "Eb",
+      "Gb",
+      "Bb",
+      "Db"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "11"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-ab11-c-n-l-Ab-C-Eb-Gb-Bb-Db.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Ab11"
+  },
+  {
+    "symbol": "Ab13",
+    "fullName": "Ab dominant thirteenth",
+    "description": "The Ab dominant thirteenth Chord for Piano has the notes Ab C Eb Gb Bb F and interval structure 1 3 5 b7 9 13.",
+    "notes": [
+      "Ab",
+      "C",
+      "Eb",
+      "Gb",
+      "Bb",
+      "F"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "13"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-ab13-c-n-l-Ab-C-Eb-Gb-Bb-F.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Ab13"
+  },
+  {
+    "symbol": "Ab5",
+    "fullName": "Ab fifth",
+    "description": "The Ab fifth Chord for Piano has the notes Ab Eb and interval structure 1 5.",
+    "notes": [
+      "Ab",
+      "Eb"
+    ],
+    "intervals": [
+      "1",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-ab5-c-n-l-Ab-Eb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Ab5"
+  },
+  {
+    "symbol": "A",
+    "fullName": "A major",
+    "description": "The A major Chord for Piano has the notes A Db E and interval structure 1 3 5.",
+    "notes": [
+      "A",
+      "Db",
+      "E"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-a-c-n-l-A-Db-E.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/A"
+  },
+  {
+    "symbol": "Am",
+    "fullName": "A minor",
+    "description": "The A minor Chord for Piano has the notes A C E and interval structure 1 b3 5.",
+    "notes": [
+      "A",
+      "C",
+      "E"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-am-c-n-l-A-C-E.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Am"
+  },
+  {
+    "symbol": "Adim",
+    "fullName": "A diminished",
+    "description": "The A diminished Chord for Piano has the notes A C Eb and interval structure 1 b3 b5.",
+    "notes": [
+      "A",
+      "C",
+      "Eb"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-adim-c-n-l-A-C-Eb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Adim"
+  },
+  {
+    "symbol": "Aaug",
+    "fullName": "A augmented",
+    "description": "The A augmented Chord for Piano has the notes A Db F and interval structure 1 3 #5.",
+    "notes": [
+      "A",
+      "Db",
+      "F"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "#5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-aaug-c-n-l-A-Db-F.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Aaug"
+  },
+  {
+    "symbol": "Amaj7",
+    "fullName": "A major seventh",
+    "description": "The A major seventh Chord for Piano has the notes A Db E Ab and interval structure 1 3 5 7.",
+    "notes": [
+      "A",
+      "Db",
+      "E",
+      "Ab"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-amaj7-c-n-l-A-Db-E-Ab.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Amaj7"
+  },
+  {
+    "symbol": "A7",
+    "fullName": "A dominant seventh",
+    "description": "The A dominant seventh Chord for Piano has the notes A Db E G and interval structure 1 3 5 b7.",
+    "notes": [
+      "A",
+      "Db",
+      "E",
+      "G"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-a7-c-n-l-A-Db-E-G.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/A7"
+  },
+  {
+    "symbol": "Am7",
+    "fullName": "A minor seventh",
+    "description": "The A minor seventh Chord for Piano has the notes A C E G and interval structure 1 b3 5 b7.",
+    "notes": [
+      "A",
+      "C",
+      "E",
+      "G"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-am7-c-n-l-A-C-E-G.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Am7"
+  },
+  {
+    "symbol": "Adim7",
+    "fullName": "A diminished seventh",
+    "description": "The A diminished seventh Chord for Piano has the notes A C Eb Gb and interval structure 1 b3 b5 6.",
+    "notes": [
+      "A",
+      "C",
+      "Eb",
+      "Gb"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-adim7-c-n-l-A-C-Eb-Gb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Adim7"
+  },
+  {
+    "symbol": "Am(maj7)",
+    "fullName": "A minor major seventh",
+    "description": "The A minor major seventh Chord for Piano has the notes A C E Ab and interval structure 1 b3 5 7.",
+    "notes": [
+      "A",
+      "C",
+      "E",
+      "Ab"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-ammaj7-c-n-l-A-C-E-Ab.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Am(maj7)"
+  },
+  {
+    "symbol": "Am7b5",
+    "fullName": "A minor seventh flat five",
+    "description": "The A minor seventh flat five Chord for Piano has the notes A C Eb G and interval structure 1 b3 b5 b7.",
+    "notes": [
+      "A",
+      "C",
+      "Eb",
+      "G"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-am7b5-c-n-l-A-C-Eb-G.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Am7b5"
+  },
+  {
+    "symbol": "Asus2",
+    "fullName": "A suspended second",
+    "description": "The A suspended second Chord for Piano has the notes A B E and interval structure 1 2 5.",
+    "notes": [
+      "A",
+      "B",
+      "E"
+    ],
+    "intervals": [
+      "1",
+      "2",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-asus2-c-n-l-A-B-E.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Asus2"
+  },
+  {
+    "symbol": "Asus4",
+    "fullName": "A suspended fourth",
+    "description": "The A suspended fourth Chord for Piano has the notes A D E and interval structure 1 4 5.",
+    "notes": [
+      "A",
+      "D",
+      "E"
+    ],
+    "intervals": [
+      "1",
+      "4",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-asus4-c-n-l-A-D-E.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Asus4"
+  },
+  {
+    "symbol": "A6",
+    "fullName": "A sixth",
+    "description": "The A sixth Chord for Piano has the notes A Db E Gb and interval structure 1 3 5 6.",
+    "notes": [
+      "A",
+      "Db",
+      "E",
+      "Gb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-a6-c-n-l-A-Db-E-Gb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/A6"
+  },
+  {
+    "symbol": "A6/9",
+    "fullName": "A sixth ninth",
+    "description": "The A sixth ninth Chord for Piano has the notes A Db E Gb B and interval structure 1 3 5 6 9.",
+    "notes": [
+      "A",
+      "Db",
+      "E",
+      "Gb",
+      "B"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-a6_9-c-n-l-A-Db-E-Gb-B.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/A6%2F9"
+  },
+  {
+    "symbol": "A9",
+    "fullName": "A dominant ninth",
+    "description": "The A dominant ninth Chord for Piano has the notes A Db E G B and interval structure 1 3 5 b7 9.",
+    "notes": [
+      "A",
+      "Db",
+      "E",
+      "G",
+      "B"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-a9-c-n-l-A-Db-E-G-B.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/A9"
+  },
+  {
+    "symbol": "A11",
+    "fullName": "A dominant eleventh",
+    "description": "The A dominant eleventh Chord for Piano has the notes A Db E G B D and interval structure 1 3 5 b7 9 11.",
+    "notes": [
+      "A",
+      "Db",
+      "E",
+      "G",
+      "B",
+      "D"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "11"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-a11-c-n-l-A-Db-E-G-B-D.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/A11"
+  },
+  {
+    "symbol": "A13",
+    "fullName": "A dominant thirteenth",
+    "description": "The A dominant thirteenth Chord for Piano has the notes A Db E G B Gb and interval structure 1 3 5 b7 9 13.",
+    "notes": [
+      "A",
+      "Db",
+      "E",
+      "G",
+      "B",
+      "Gb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "13"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-a13-c-n-l-A-Db-E-G-B-Gb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/A13"
+  },
+  {
+    "symbol": "A5",
+    "fullName": "A fifth",
+    "description": "The A fifth Chord for Piano has the notes A E and interval structure 1 5.",
+    "notes": [
+      "A",
+      "E"
+    ],
+    "intervals": [
+      "1",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-a5-c-n-l-A-E.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/A5"
+  },
+  {
+    "symbol": "A#",
+    "fullName": "A# major",
+    "description": "The A# major Chord for Piano has the notes Bb D F and interval structure 1 3 5.",
+    "notes": [
+      "Bb",
+      "D",
+      "F"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-as-c-n-l-Bb-D-F.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/A%23"
+  },
+  {
+    "symbol": "A#m",
+    "fullName": "A# minor",
+    "description": "The A# minor Chord for Piano has the notes Bb Db F and interval structure 1 b3 5.",
+    "notes": [
+      "Bb",
+      "Db",
+      "F"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-asm-c-n-l-Bb-Db-F.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/A%23m"
+  },
+  {
+    "symbol": "A#dim",
+    "fullName": "A# diminished",
+    "description": "The A# diminished Chord for Piano has the notes Bb Db E and interval structure 1 b3 b5.",
+    "notes": [
+      "Bb",
+      "Db",
+      "E"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-asdim-c-n-l-Bb-Db-E.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/A%23dim"
+  },
+  {
+    "symbol": "A#aug",
+    "fullName": "A# augmented",
+    "description": "The A# augmented Chord for Piano has the notes Bb D Gb and interval structure 1 3 #5.",
+    "notes": [
+      "Bb",
+      "D",
+      "Gb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "#5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-asaug-c-n-l-Bb-D-Gb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/A%23aug"
+  },
+  {
+    "symbol": "A#maj7",
+    "fullName": "A# major seventh",
+    "description": "The A# major seventh Chord for Piano has the notes Bb D F A and interval structure 1 3 5 7.",
+    "notes": [
+      "Bb",
+      "D",
+      "F",
+      "A"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-asmaj7-c-n-l-Bb-D-F-A.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/A%23maj7"
+  },
+  {
+    "symbol": "A#7",
+    "fullName": "A# dominant seventh",
+    "description": "The A# dominant seventh Chord for Piano has the notes Bb D F Ab and interval structure 1 3 5 b7.",
+    "notes": [
+      "Bb",
+      "D",
+      "F",
+      "Ab"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-as7-c-n-l-Bb-D-F-Ab.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/A%237"
+  },
+  {
+    "symbol": "A#m7",
+    "fullName": "A# minor seventh",
+    "description": "The A# minor seventh Chord for Piano has the notes Bb Db F Ab and interval structure 1 b3 5 b7.",
+    "notes": [
+      "Bb",
+      "Db",
+      "F",
+      "Ab"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-asm7-c-n-l-Bb-Db-F-Ab.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/A%23m7"
+  },
+  {
+    "symbol": "A#dim7",
+    "fullName": "A# diminished seventh",
+    "description": "The A# diminished seventh Chord for Piano has the notes Bb Db E G and interval structure 1 b3 b5 6.",
+    "notes": [
+      "Bb",
+      "Db",
+      "E",
+      "G"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-asdim7-c-n-l-Bb-Db-E-G.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/A%23dim7"
+  },
+  {
+    "symbol": "A#m(maj7)",
+    "fullName": "A# minor major seventh",
+    "description": "The A# minor major seventh Chord for Piano has the notes Bb Db F A and interval structure 1 b3 5 7.",
+    "notes": [
+      "Bb",
+      "Db",
+      "F",
+      "A"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-asmmaj7-c-n-l-Bb-Db-F-A.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/A%23m(maj7)"
+  },
+  {
+    "symbol": "A#m7b5",
+    "fullName": "A# minor seventh flat five",
+    "description": "The A# minor seventh flat five Chord for Piano has the notes Bb Db E Ab and interval structure 1 b3 b5 b7.",
+    "notes": [
+      "Bb",
+      "Db",
+      "E",
+      "Ab"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-asm7b5-c-n-l-Bb-Db-E-Ab.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/A%23m7b5"
+  },
+  {
+    "symbol": "A#sus2",
+    "fullName": "A# suspended second",
+    "description": "The A# suspended second Chord for Piano has the notes Bb C F and interval structure 1 2 5.",
+    "notes": [
+      "Bb",
+      "C",
+      "F"
+    ],
+    "intervals": [
+      "1",
+      "2",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-assus2-c-n-l-Bb-C-F.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/A%23sus2"
+  },
+  {
+    "symbol": "A#sus4",
+    "fullName": "A# suspended fourth",
+    "description": "The A# suspended fourth Chord for Piano has the notes Bb Eb F and interval structure 1 4 5.",
+    "notes": [
+      "Bb",
+      "Eb",
+      "F"
+    ],
+    "intervals": [
+      "1",
+      "4",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-assus4-c-n-l-Bb-Eb-F.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/A%23sus4"
+  },
+  {
+    "symbol": "A#6",
+    "fullName": "A# sixth",
+    "description": "The A# sixth Chord for Piano has the notes Bb D F G and interval structure 1 3 5 6.",
+    "notes": [
+      "Bb",
+      "D",
+      "F",
+      "G"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-as6-c-n-l-Bb-D-F-G.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/A%236"
+  },
+  {
+    "symbol": "A#6/9",
+    "fullName": "A# sixth ninth",
+    "description": "The A# sixth ninth Chord for Piano has the notes Bb D F G C and interval structure 1 3 5 6 9.",
+    "notes": [
+      "Bb",
+      "D",
+      "F",
+      "G",
+      "C"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-as6_9-c-n-l-Bb-D-F-G-C.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/A%236%2F9"
+  },
+  {
+    "symbol": "A#9",
+    "fullName": "A# dominant ninth",
+    "description": "The A# dominant ninth Chord for Piano has the notes Bb D F Ab C and interval structure 1 3 5 b7 9.",
+    "notes": [
+      "Bb",
+      "D",
+      "F",
+      "Ab",
+      "C"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-as9-c-n-l-Bb-D-F-Ab-C.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/A%239"
+  },
+  {
+    "symbol": "A#11",
+    "fullName": "A# dominant eleventh",
+    "description": "The A# dominant eleventh Chord for Piano has the notes Bb D F Ab C Eb and interval structure 1 3 5 b7 9 11.",
+    "notes": [
+      "Bb",
+      "D",
+      "F",
+      "Ab",
+      "C",
+      "Eb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "11"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-as11-c-n-l-Bb-D-F-Ab-C-Eb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/A%2311"
+  },
+  {
+    "symbol": "A#13",
+    "fullName": "A# dominant thirteenth",
+    "description": "The A# dominant thirteenth Chord for Piano has the notes Bb D F Ab C G and interval structure 1 3 5 b7 9 13.",
+    "notes": [
+      "Bb",
+      "D",
+      "F",
+      "Ab",
+      "C",
+      "G"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "13"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-as13-c-n-l-Bb-D-F-Ab-C-G.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/A%2313"
+  },
+  {
+    "symbol": "A#5",
+    "fullName": "A# fifth",
+    "description": "The A# fifth Chord for Piano has the notes Bb F and interval structure 1 5.",
+    "notes": [
+      "Bb",
+      "F"
+    ],
+    "intervals": [
+      "1",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-as5-c-n-l-Bb-F.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/A%235"
+  },
+  {
+    "symbol": "Bb",
+    "fullName": "Bb major",
+    "description": "The Bb major Chord for Piano has the notes Bb D F and interval structure 1 3 5.",
+    "notes": [
+      "Bb",
+      "D",
+      "F"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-bb-c-n-l-Bb-D-F.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Bb"
+  },
+  {
+    "symbol": "Bbm",
+    "fullName": "Bb minor",
+    "description": "The Bb minor Chord for Piano has the notes Bb Db F and interval structure 1 b3 5.",
+    "notes": [
+      "Bb",
+      "Db",
+      "F"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-bbm-c-n-l-Bb-Db-F.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Bbm"
+  },
+  {
+    "symbol": "Bbdim",
+    "fullName": "Bb diminished",
+    "description": "The Bb diminished Chord for Piano has the notes Bb Db E and interval structure 1 b3 b5.",
+    "notes": [
+      "Bb",
+      "Db",
+      "E"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-bbdim-c-n-l-Bb-Db-E.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Bbdim"
+  },
+  {
+    "symbol": "Bbaug",
+    "fullName": "Bb augmented",
+    "description": "The Bb augmented Chord for Piano has the notes Bb D Gb and interval structure 1 3 #5.",
+    "notes": [
+      "Bb",
+      "D",
+      "Gb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "#5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-bbaug-c-n-l-Bb-D-Gb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Bbaug"
+  },
+  {
+    "symbol": "Bbmaj7",
+    "fullName": "Bb major seventh",
+    "description": "The Bb major seventh Chord for Piano has the notes Bb D F A and interval structure 1 3 5 7.",
+    "notes": [
+      "Bb",
+      "D",
+      "F",
+      "A"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-bbmaj7-c-n-l-Bb-D-F-A.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Bbmaj7"
+  },
+  {
+    "symbol": "Bb7",
+    "fullName": "Bb dominant seventh",
+    "description": "The Bb dominant seventh Chord for Piano has the notes Bb D F Ab and interval structure 1 3 5 b7.",
+    "notes": [
+      "Bb",
+      "D",
+      "F",
+      "Ab"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-bb7-c-n-l-Bb-D-F-Ab.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Bb7"
+  },
+  {
+    "symbol": "Bbm7",
+    "fullName": "Bb minor seventh",
+    "description": "The Bb minor seventh Chord for Piano has the notes Bb Db F Ab and interval structure 1 b3 5 b7.",
+    "notes": [
+      "Bb",
+      "Db",
+      "F",
+      "Ab"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-bbm7-c-n-l-Bb-Db-F-Ab.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Bbm7"
+  },
+  {
+    "symbol": "Bbdim7",
+    "fullName": "Bb diminished seventh",
+    "description": "The Bb diminished seventh Chord for Piano has the notes Bb Db E G and interval structure 1 b3 b5 6.",
+    "notes": [
+      "Bb",
+      "Db",
+      "E",
+      "G"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-bbdim7-c-n-l-Bb-Db-E-G.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Bbdim7"
+  },
+  {
+    "symbol": "Bbm(maj7)",
+    "fullName": "Bb minor major seventh",
+    "description": "The Bb minor major seventh Chord for Piano has the notes Bb Db F A and interval structure 1 b3 5 7.",
+    "notes": [
+      "Bb",
+      "Db",
+      "F",
+      "A"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-bbmmaj7-c-n-l-Bb-Db-F-A.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Bbm(maj7)"
+  },
+  {
+    "symbol": "Bbm7b5",
+    "fullName": "Bb minor seventh flat five",
+    "description": "The Bb minor seventh flat five Chord for Piano has the notes Bb Db E Ab and interval structure 1 b3 b5 b7.",
+    "notes": [
+      "Bb",
+      "Db",
+      "E",
+      "Ab"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-bbm7b5-c-n-l-Bb-Db-E-Ab.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Bbm7b5"
+  },
+  {
+    "symbol": "Bbsus2",
+    "fullName": "Bb suspended second",
+    "description": "The Bb suspended second Chord for Piano has the notes Bb C F and interval structure 1 2 5.",
+    "notes": [
+      "Bb",
+      "C",
+      "F"
+    ],
+    "intervals": [
+      "1",
+      "2",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-bbsus2-c-n-l-Bb-C-F.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Bbsus2"
+  },
+  {
+    "symbol": "Bbsus4",
+    "fullName": "Bb suspended fourth",
+    "description": "The Bb suspended fourth Chord for Piano has the notes Bb Eb F and interval structure 1 4 5.",
+    "notes": [
+      "Bb",
+      "Eb",
+      "F"
+    ],
+    "intervals": [
+      "1",
+      "4",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-bbsus4-c-n-l-Bb-Eb-F.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Bbsus4"
+  },
+  {
+    "symbol": "Bb6",
+    "fullName": "Bb sixth",
+    "description": "The Bb sixth Chord for Piano has the notes Bb D F G and interval structure 1 3 5 6.",
+    "notes": [
+      "Bb",
+      "D",
+      "F",
+      "G"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-bb6-c-n-l-Bb-D-F-G.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Bb6"
+  },
+  {
+    "symbol": "Bb6/9",
+    "fullName": "Bb sixth ninth",
+    "description": "The Bb sixth ninth Chord for Piano has the notes Bb D F G C and interval structure 1 3 5 6 9.",
+    "notes": [
+      "Bb",
+      "D",
+      "F",
+      "G",
+      "C"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-bb6_9-c-n-l-Bb-D-F-G-C.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Bb6%2F9"
+  },
+  {
+    "symbol": "Bb9",
+    "fullName": "Bb dominant ninth",
+    "description": "The Bb dominant ninth Chord for Piano has the notes Bb D F Ab C and interval structure 1 3 5 b7 9.",
+    "notes": [
+      "Bb",
+      "D",
+      "F",
+      "Ab",
+      "C"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-bb9-c-n-l-Bb-D-F-Ab-C.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Bb9"
+  },
+  {
+    "symbol": "Bb11",
+    "fullName": "Bb dominant eleventh",
+    "description": "The Bb dominant eleventh Chord for Piano has the notes Bb D F Ab C Eb and interval structure 1 3 5 b7 9 11.",
+    "notes": [
+      "Bb",
+      "D",
+      "F",
+      "Ab",
+      "C",
+      "Eb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "11"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-bb11-c-n-l-Bb-D-F-Ab-C-Eb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Bb11"
+  },
+  {
+    "symbol": "Bb13",
+    "fullName": "Bb dominant thirteenth",
+    "description": "The Bb dominant thirteenth Chord for Piano has the notes Bb D F Ab C G and interval structure 1 3 5 b7 9 13.",
+    "notes": [
+      "Bb",
+      "D",
+      "F",
+      "Ab",
+      "C",
+      "G"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "13"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-bb13-c-n-l-Bb-D-F-Ab-C-G.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Bb13"
+  },
+  {
+    "symbol": "Bb5",
+    "fullName": "Bb fifth",
+    "description": "The Bb fifth Chord for Piano has the notes Bb F and interval structure 1 5.",
+    "notes": [
+      "Bb",
+      "F"
+    ],
+    "intervals": [
+      "1",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-bb5-c-n-l-Bb-F.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Bb5"
+  },
+  {
+    "symbol": "B",
+    "fullName": "B major",
+    "description": "The B major Chord for Piano has the notes B Eb Gb and interval structure 1 3 5.",
+    "notes": [
+      "B",
+      "Eb",
+      "Gb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-b-c-n-l-B-Eb-Gb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/B"
+  },
+  {
+    "symbol": "Bm",
+    "fullName": "B minor",
+    "description": "The B minor Chord for Piano has the notes B D Gb and interval structure 1 b3 5.",
+    "notes": [
+      "B",
+      "D",
+      "Gb"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-bm-c-n-l-B-D-Gb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Bm"
+  },
+  {
+    "symbol": "Bdim",
+    "fullName": "B diminished",
+    "description": "The B diminished Chord for Piano has the notes B D F and interval structure 1 b3 b5.",
+    "notes": [
+      "B",
+      "D",
+      "F"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-bdim-c-n-l-B-D-F.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Bdim"
+  },
+  {
+    "symbol": "Baug",
+    "fullName": "B augmented",
+    "description": "The B augmented Chord for Piano has the notes B Eb G and interval structure 1 3 #5.",
+    "notes": [
+      "B",
+      "Eb",
+      "G"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "#5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-baug-c-n-l-B-Eb-G.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Baug"
+  },
+  {
+    "symbol": "Bmaj7",
+    "fullName": "B major seventh",
+    "description": "The B major seventh Chord for Piano has the notes B Eb Gb Bb and interval structure 1 3 5 7.",
+    "notes": [
+      "B",
+      "Eb",
+      "Gb",
+      "Bb"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-bmaj7-c-n-l-B-Eb-Gb-Bb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Bmaj7"
+  },
+  {
+    "symbol": "B7",
+    "fullName": "B dominant seventh",
+    "description": "The B dominant seventh Chord for Piano has the notes B Eb Gb A and interval structure 1 3 5 b7.",
+    "notes": [
+      "B",
+      "Eb",
+      "Gb",
+      "A"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-b7-c-n-l-B-Eb-Gb-A.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/B7"
+  },
+  {
+    "symbol": "Bm7",
+    "fullName": "B minor seventh",
+    "description": "The B minor seventh Chord for Piano has the notes B D Gb A and interval structure 1 b3 5 b7.",
+    "notes": [
+      "B",
+      "D",
+      "Gb",
+      "A"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-bm7-c-n-l-B-D-Gb-A.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Bm7"
+  },
+  {
+    "symbol": "Bdim7",
+    "fullName": "B diminished seventh",
+    "description": "The B diminished seventh Chord for Piano has the notes B D F Ab and interval structure 1 b3 b5 6.",
+    "notes": [
+      "B",
+      "D",
+      "F",
+      "Ab"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-bdim7-c-n-l-B-D-F-Ab.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Bdim7"
+  },
+  {
+    "symbol": "Bm(maj7)",
+    "fullName": "B minor major seventh",
+    "description": "The B minor major seventh Chord for Piano has the notes B D Gb Bb and interval structure 1 b3 5 7.",
+    "notes": [
+      "B",
+      "D",
+      "Gb",
+      "Bb"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "5",
+      "7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-bmmaj7-c-n-l-B-D-Gb-Bb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Bm(maj7)"
+  },
+  {
+    "symbol": "Bm7b5",
+    "fullName": "B minor seventh flat five",
+    "description": "The B minor seventh flat five Chord for Piano has the notes B D F A and interval structure 1 b3 b5 b7.",
+    "notes": [
+      "B",
+      "D",
+      "F",
+      "A"
+    ],
+    "intervals": [
+      "1",
+      "b3",
+      "b5",
+      "b7"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-bm7b5-c-n-l-B-D-F-A.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Bm7b5"
+  },
+  {
+    "symbol": "Bsus2",
+    "fullName": "B suspended second",
+    "description": "The B suspended second Chord for Piano has the notes B Db Gb and interval structure 1 2 5.",
+    "notes": [
+      "B",
+      "Db",
+      "Gb"
+    ],
+    "intervals": [
+      "1",
+      "2",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-bsus2-c-n-l-B-Db-Gb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Bsus2"
+  },
+  {
+    "symbol": "Bsus4",
+    "fullName": "B suspended fourth",
+    "description": "The B suspended fourth Chord for Piano has the notes B E Gb and interval structure 1 4 5.",
+    "notes": [
+      "B",
+      "E",
+      "Gb"
+    ],
+    "intervals": [
+      "1",
+      "4",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-bsus4-c-n-l-B-E-Gb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/Bsus4"
+  },
+  {
+    "symbol": "B6",
+    "fullName": "B sixth",
+    "description": "The B sixth Chord for Piano has the notes B Eb Gb Ab and interval structure 1 3 5 6.",
+    "notes": [
+      "B",
+      "Eb",
+      "Gb",
+      "Ab"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-b6-c-n-l-B-Eb-Gb-Ab.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/B6"
+  },
+  {
+    "symbol": "B6/9",
+    "fullName": "B sixth ninth",
+    "description": "The B sixth ninth Chord for Piano has the notes B Eb Gb Ab Db and interval structure 1 3 5 6 9.",
+    "notes": [
+      "B",
+      "Eb",
+      "Gb",
+      "Ab",
+      "Db"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "6",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-b6_9-c-n-l-B-Eb-Gb-Ab-Db.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/B6%2F9"
+  },
+  {
+    "symbol": "B9",
+    "fullName": "B dominant ninth",
+    "description": "The B dominant ninth Chord for Piano has the notes B Eb Gb A Db and interval structure 1 3 5 b7 9.",
+    "notes": [
+      "B",
+      "Eb",
+      "Gb",
+      "A",
+      "Db"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-b9-c-n-l-B-Eb-Gb-A-Db.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/B9"
+  },
+  {
+    "symbol": "B11",
+    "fullName": "B dominant eleventh",
+    "description": "The B dominant eleventh Chord for Piano has the notes B Eb Gb A Db E and interval structure 1 3 5 b7 9 11.",
+    "notes": [
+      "B",
+      "Eb",
+      "Gb",
+      "A",
+      "Db",
+      "E"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "11"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-b11-c-n-l-B-Eb-Gb-A-Db-E.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/B11"
+  },
+  {
+    "symbol": "B13",
+    "fullName": "B dominant thirteenth",
+    "description": "The B dominant thirteenth Chord for Piano has the notes B Eb Gb A Db Ab and interval structure 1 3 5 b7 9 13.",
+    "notes": [
+      "B",
+      "Eb",
+      "Gb",
+      "A",
+      "Db",
+      "Ab"
+    ],
+    "intervals": [
+      "1",
+      "3",
+      "5",
+      "b7",
+      "9",
+      "13"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-b13-c-n-l-B-Eb-Gb-A-Db-Ab.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/B13"
+  },
+  {
+    "symbol": "B5",
+    "fullName": "B fifth",
+    "description": "The B fifth Chord for Piano has the notes B Gb and interval structure 1 5.",
+    "notes": [
+      "B",
+      "Gb"
+    ],
+    "intervals": [
+      "1",
+      "5"
+    ],
+    "alternateSymbols": [],
+    "inversions": [],
+    "relatedChords": [],
+    "imageUrl": "https://www.scales-chords.com/chord-charts/piano-b5-c-n-l-B-Gb.jpg",
+    "imageLocal": null,
+    "url": "https://www.scales-chords.com/chord/piano/B5"
+  }
+]

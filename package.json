@@ -1,0 +1,35 @@
+{
+  "name": "piano-chords-api",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "scrape": "node scripts/scraper.js",
+    "check-data": "node scripts/check-data.js",
+    "generate-chords": "node scripts/generate-all-piano-chords.js",
+    "generate-scales": "node scripts/generate-scales.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0",
+    "fs-extra": "^11.2.0",
+    "next": "^16.0.1",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "tone": "^14.8.49"
+  },
+  "devDependencies": {
+    "@next/swc-win32-x64-msvc": "^16.0.1",
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^20.12.0",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4",
+    "typescript": "^5.4.5"
+  }
+}
