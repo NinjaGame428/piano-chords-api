@@ -79,7 +79,7 @@ export const PlayChordButton: React.FC<PlayChordButtonProps> = ({
         const context = getContext ? getContext() : (toneModule.context || null);
         
         // Start audio context if needed
-        const start = toneModule.start || toneModule.Tone?.start || (async () => {});
+        const start = toneModule.start || (async () => {});
         if (context && context.state !== 'running') {
           try {
             await start();
